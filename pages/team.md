@@ -18,7 +18,6 @@ header:
     <li data-magellan-arrival="Staff"><a href="#Staff">Staff</a></li>
     <li data-magellan-arrival="Students_Interns"><a href="#Students_Interns">Students and Interns</a></li>
     <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
-    <li data-magellan-arrival="Past_Members"><a href="#Past_Members">Past Members</a></li>
   </ul>
 </div>
 
@@ -78,6 +77,8 @@ header:
 
 {% include team_member member_name="Alex_W" full_name="Alex Wollam" bio='Alex is currently pursuing a degree in Computer Science Engineering at the Ohio State University. Alex is working on software development for <a href="https://github.com/griffithlab/pVAC-Tools">pVACtools</a>. Alex is currently on his third summer internship with the lab.' image='/assets/img/team/alex_wollam.jpg' role='Intern' %}
 
+<!--
+
 <a name="Past_Members"></a>
 <h2 data-magellan-destination="Past_Members">Past Members (Interns, Rotation Students, etc.)</h2>
 
@@ -107,3 +108,5 @@ header:
       <h5>Jace Webster</h5>
   </div>
 </div>
+
+-->
