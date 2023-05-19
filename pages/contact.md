@@ -19,7 +19,7 @@ header:
       <b>phone:</b> +1 314-747-9248<br>
       <b>email:</b> <a href="mailto:weimin.zhou@sjtu.edu.cn">weimin.zhou@sjtu.edu.cn</a><br>
       <b>office:</b> MCC 10116<br>
-      <b>mailing address:</b><br>Global Institute of Future Technology<br>Mail stop 8501-29-10<br>Shanghai Jiao Tong University<br>660 South Euclid Avenue<br>Shanghai, China 200240
+      <b>mailing address:</b><br>Global Institute of Future Technology<br>University of Michigan-Shanghai Jiao Tong University Joint Institute<br>Shanghai Jiao Tong University<br>660 South Euclid Avenue<br>Shanghai, China 200240
     </p>
     </div>
 </div>
