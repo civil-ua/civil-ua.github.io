@@ -16,10 +16,10 @@ header:
     <div class="small-6 columns">
     <h5>Weimin Zhou</h5>
     <p>
-      <b>phone:</b> +1 314-747-9248<br>
-      <b>email:</b> <a href="mailto:weimin.zhou@sjtu.edu.cn">weimin.zhou@sjtu.edu.cn</a><br>
-      <b>office:</b> MCC 10116<br>
-      <b>mailing address:</b><br>Global Institute of Future Technology<br>University of Michigan-Shanghai Jiao Tong University Joint Institute<br>Shanghai Jiao Tong University<br>660 South Euclid Avenue<br>Shanghai, China 200240
+      <b>Phone:</b> +86 314-747-9248<br>
+      <b>Email:</b> <a href="mailto:weimin.zhou@sjtu.edu.cn">weimin.zhou@sjtu.edu.cn</a><br>
+      <b>Office:</b> MCC 10116<br>
+      <b>Address:</b><br>Global Institute of Future Technology,<br>University of Michigan-Shanghai Jiao Tong University Joint Institute,<br>Shanghai Jiao Tong University<br>800 Dongchuan Road<br>Shanghai, China, 200240
     </p>
     </div>
 </div>
