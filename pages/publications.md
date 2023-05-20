@@ -29,7 +29,7 @@ header:
 
 {% include publication authors="Weimin Zhou" title="Computational prediction of MHC anchor locations guides neoantigen identification and prioritization" journal="SPIE Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment" doi="10.1117/12.2654465" pmid=""%}
 
-<div class="paper"><img class="paper" src="/assets/img/team/kelsy_cotto.jpg" width="285px">
+<div class="paper"><img class="paper" src="/assets/img/team/kelsy_cotto.jpg" width="200px">
             <div><strong>Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment</strong><br>
                 <strong>Wentao Chen</strong>, Weimin Zhou#<br>
                 SPIE Medical Imaging, 2023<br>
