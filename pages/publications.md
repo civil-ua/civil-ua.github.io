@@ -29,6 +29,23 @@ header:
 
 {% include publication authors="Weimin Zhou" title="Computational prediction of MHC anchor locations guides neoantigen identification and prioritization" journal="SPIE Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment" doi="10.1117/12.2654465" pmid=""%}
 
+<div class="paper"><img class="paper" src=""
+            title="Vision Transformer Adapter for Dense Predictions">
+            <div><strong>Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment</strong><br>
+                <strong>Wentao Chen</strong>, Weimin Zhou#<br>
+                International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023<br>
+                <a href="https://arxiv.org/pdf/2211.05778.pdf">[Paper]</a>
+                <a href="https://github.com/HUANGLIZI/C2FVL">[Code]</a>
+                <img src="https://img.shields.io/github/stars/HUANGLIZI/C2FVL?style=social"/>
+                <!-- <a class="github-button" href="https://github.com/OpenGVLab/InternImage" data-icon="octicon-star"
+                    data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a> -->
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+
+
 
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
