@@ -20,7 +20,7 @@ header:
     <div class="small-12 small-centered columns">
     <h5>Weimin Zhou</h5>
     <p>
-      <b>Phone:</b> +86 314-747-9248<br>
+      <b>Phone:</b> +86 021-747-9248<br>
       <b>Email:</b> <a href="mailto:weimin.zhou@sjtu.edu.cn">weimin.zhou@sjtu.edu.cn</a><br>
       <b>Office:</b> MCC 10116<br>
       <b>Address:</b><br>Global Institute of Future Technology,<br>University of Michigan-Shanghai Jiao Tong University Joint Institute,<br>Shanghai Jiao Tong University<br>800 Dongchuan Road<br>Shanghai, China, 200240
