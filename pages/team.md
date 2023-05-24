@@ -15,7 +15,6 @@ header:
     <li data-magellan-arrival="Postdoctoral_Researchers"><a href="#Postdoctoral_Researchers">Ph.D. Students</a></li>
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Master Students</a></li>
     <li data-magellan-arrival="Students_Interns"><a href="#Students_Interns">Students and Interns</a></li>
-    <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
   </ul>
 </div>
 
@@ -39,10 +38,6 @@ header:
 
 {% include team_member member_name="Xichen" full_name="Xichen Xu" bio='Megan Richters is a PhD Candidate in the Molecular Genetics and Genomics program at Washington University in St. Louis. She graduated from the University of Louisiana at Monroe in 2014 with a B.S. in Biology. She is interested in assessing the impact of intratumoral heterogeneity on neoantigen prediction accuracy as well as exploring novel sources of neoantigens for personalized cancer vaccines.' image="/assets/img/team/megan_richters.png" role="Graduate Student" %}
 
-{% include team_member member_name="Sharon" full_name="Sharon Freshour, BSc" bio='Sharon is a graduate student in the Human and Statistical Genetics program at Washington University in St. Louis. She graduated from St. Edwards University in Austin Texas in 2016 with a degree in Mathematics.' image="/assets/img/team/sharon_freshour.jpg" role="Graduate Student" %}
-
-{% include team_member member_name="Chris" full_name="Christopher J. Yoon" bio="Chris is in the Molecular Genetics and Genomics program and the Medical Scientist Training Program at Washington University in St. Louis. He graduated with a B.S. in Chemical-Biological Engineering from MIT and an M.Phil. degree in computational biology at the University of Cambridge. Before joining the Griffith lab, he spent 3 years at Korea Advanced Institute of Science and Technology (KAIST) to fulfill his military duty as a substituted service for South Korea. Chris' current research interest focuses on understanding various types of human twins using next generation sequencing technologies and developing software tools." image="/assets/img/team/chris_yoon.jpg" role="Graduate Student" %}
-
 <h2 data-magellan-destination="Students_Interns">Students and Interns</h2>
 <a name="Students_Interns"></a>
 
@@ -51,16 +46,17 @@ header:
 {% include team_member member_name="Brian_L" full_name="Brian Li" bio='Brian is a WASHU undergraduate student. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
 
 
+<!--
+
+<li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
+
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
 
-{% include team_member member_name="Ben" full_name="Ben Ainscough, BSc" bio='Ben successfully completed his PhD in the Human and Statistical Genetics program at Washington University in St. Louis. His research was focused on computational method development to improve the detection of biologically important somatic variants. Specifically, he was interested in applying machine learning algorithms to improve genomic analysis and enable precision medicine. Additionally, he led the team to create the <a href="http://docm.info">Database of Curated Mutations</a>, and was a primary contributor to <a href="http://dgidb.org">DGIdb</a> and <a href="http://civicdb.org">CIViC</a>. Ben received his BSc from Brigham Young University majoring in Bioinformatics with University Honors. In his free time, Ben enjoys mountain biking, watching BYU sports, and spending time with his wife and children. He is now a Data Scientist at Domo.' image="/assets/img/team/benjamin_ainscough.jpg" role="Graduate Student" %}
-
-{% include team_member member_name="Alex" full_name="Alex Wagner, PhD" bio='Dr. Wagner is an Instructor in the <a href="https://oncology.wustl.edu/people/faculty/faculty_stemcell.html">Divison of Oncology</a> at the Washington University School of Medicine and a National Human Genome Research Institute <a href="../WagnerK99">K99 Scholar</a>. His research interests are in facilitating the interpretation of genomic variants in a clinical context. Alex is a leader of the Global Alliance for Genomics and Health (GA4GH) <a href="https://ga4gh-gks.github.io/variant_representation.html">Variant Representation group</a>, and is co-director of the <a href="http://cancervariants.org">Variant Interpretation for Cancer Consortium</a> (VICC). He leads development of the VICC <a href="https://docs.cancervariants.org">meta-knowledgebase</a> and the <a href="http://dgidb.org">Drug Gene Interaction Database</a>. Alex is also a primary contributor to other projects centered on interpretations of genomic variants, including the <a href="http://civicdb.org">CIViC knowledgebase</a>, the <a href="http://docm.info">Database of Curated Mutations</a>, and the <a href="https://bioconductor.org/packages/release/bioc/html/GenVisR.html">Genomic Visualizations in R</a> toolkit. He also led the discovery of WNT-signaling activation as a <a href="../RelapsedSCLC_paper/">recurrent mechanism of acquired chemoresistance</a> in relapsed Small Cell Lung Cancers.' image="/assets/img/team/alex_wagner.jpg" role="Instructor in Medicine" %}
 
 {% include team_member member_name="Alex_W" full_name="Alex Wollam" bio='Alex is currently pursuing a degree in Computer Science Engineering at the Ohio State University. Alex is working on software development for <a href="https://github.com/griffithlab/pVAC-Tools">pVACtools</a>. Alex is currently on his third summer internship with the lab.' image='/assets/img/team/alex_wollam.jpg' role='Intern' %}
 
-<!--
+
 
 <a name="Past_Members"></a>
 <h2 data-magellan-destination="Past_Members">Past Members (Interns, Rotation Students, etc.)</h2>
