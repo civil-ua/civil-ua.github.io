@@ -19,7 +19,6 @@ header:
     <li data-magellan-arrival="2018"><a href="#2018">2018</a></li>
     <li data-magellan-arrival="2017"><a href="#2017">2017</a></li>
     <li data-magellan-arrival="2016"><a href="#2016">2016</a></li>
-    <li data-magellan-arrival="All"><a href="#All">All</a></li>
   </ul>
 </div>
 
