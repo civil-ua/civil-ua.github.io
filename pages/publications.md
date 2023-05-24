@@ -27,17 +27,12 @@ header:
 <h2 data-magellan-destination="2023">2023</h2>
 <a name="2023"></a>
 
-{% include publication authors="Weimin Zhou" title="Computational prediction of MHC anchor locations guides neoantigen identification and prioritization" journal="SPIE Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment" doi="10.1117/12.2654465" pmid=""%}
-
-<div class="paper"><img class="paper" src="/assets/img/team/kelsy_cotto.jpg" width="200px">
-            <div><strong>Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment</strong><br>
-                <strong>Wentao Chen</strong>, Weimin Zhou#<br>
-                SPIE Medical Imaging, 2023<br>
-                <a href="https://arxiv.org/pdf/2211.05778.pdf">[Paper]</a>
-                <a href="https://github.com/HUANGLIZI/C2FVL">[Code]</a>
-                <img src="https://img.shields.io/github/stars/HUANGLIZI/C2FVL?style=social"/>
-                <!-- <a class="github-button" href="https://github.com/OpenGVLab/InternImage" data-icon="octicon-star"
-                    data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a> -->
+<div class="paper">
+            <div><strong>Computational prediction of MHC anchor locations guides neoantigen identification and prioritization</strong><br>
+                Weimin Zhou#<br>
+                SPIE Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
                 <a href="">[BibTex]</a>
                 <br>
           </div>
@@ -51,29 +46,7 @@ header:
 
 {% include publication authors="Krysiak K, Danos AM, Saliba J,  McMichael JF, Coffman AC, Kiwala S, Barnell EK, Sheta L, Grisdale CJ, Kujan L, Pema S, Lever J, Ridd S, Spies NC, Andric V, Chiorean A, Rieke DT, Clark KA, Reisle C, Venigalla AC, Evan M, Jani P, Takahashi H, Suda A, Horak P, Ritter DI, Zhou X, Ainscough BJ, Delong S, Kesserwan C, Lamping M, Shen H, Marr AR, Hoan MH, Singhal K, Khanfar M, Li BV, Lin W, Terraf P, Corson LB, Salama Y, Campbell KM, Farncombe KM, Ji J, Zhao X, Xu X, Kanagal-Shamanna R, King I, Cotto KC, Skidmore ZL, Walker JR, Zhang J, Milosavljevic A, Patel RY, Giles RH, Kim RH, Schriml LM, Mardis ER, Jones SJM, Raca Gordana, Rao S, Madhavan S, Wagner AH, Griffith M, Griffith OL" title="CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase " journal="Nucleic Acids Research. 2022 Nov" doi="10.1093/nar/gkac979" pmid="36373660"%}
 
-{% include publication authors="Yoon CJ, Kim SY, Nam CH, Lee J, Park JW, Mun J, Park S, Lee S, Yi B, Min KI, Wiley B, Bolton KL, Lee JH, Kim E, Yoo HJ, Jun JK, Choi JS, Griffith M, Griffith OL, Ju YS." title="Estimation of intrafamilial DNA contamination in family trio genome sequencing using deviation from Mendelian inheritance" journal="Genome Research. 2022 Dec" doi="10.1101/gr.276794.122" pmid="36617634"%}
 
-{% include publication authors="Barnell EK, Fisk B, Skidmore ZL, Cotto KC, Spies NC, Basu A, Anand A, Richters MM, Luo J, Fronick C, Anurag M, Fulton R, Ellis MJ, Griffith OL, Griffith M, Ademuyiwa FO" title="Personalized ctDNA micro-panels can monitor and predict clinical outcomes for patients with triple-negative breast cancer" journal="Scientific Reports. 2022 Oct" doi="10.1038/s41598-022-20928-8" pmid="36273232"%}
-
-{% include publication authors="Barnell EK, Skidmore ZL, Newcomer KF, Chavez M, Campbell KM, Cotto KC, Spies NC, Ruzinova MB, Wang T, Abro B, Kreisel F, Parikh BA, Duncavage EJ, Frater JL, Lee Y, Hassan A, King JA, Kohnen DR, Fiala MA, Welch JS, Uy GL, Vij K, Vij R, Griffith M, Griffith OL, Wartman LD" title="Distinct clonal identities of B-ALLs arising after lenolidomide therapy for multiple myeloma" journal="Blood Advances. 2022 Oct" doi="10.1182/bloodadvances.2022007496" pmid="36251745"%}
-
-{% include publication authors="Saliba J, Church AJ, Rao S, Danos A, Furtado LV, Laetsch T, Zhang L, Nardi V, Lin WH, Ritter DI, Madhavan S, Li MM, Griffith OL, Griffith M, Raca G, Roy A" title="Standardized evidence-based approach for assessment of oncogenic and clinical significance of NTRK fusions" journal="Cancer Genetics. 2022 Jun" doi="10.1016/j.cancergen.2022.03.001" pmid="35366592"%}
-
-{% include publication authors="Krysiak K, Danos AM, Kiwala S, McMichael JF, Coffman AC, Barnell EK, Sheta L, Saliba J, Grisdale CJ, Kujan L, Pema S, Lever J, Spies NC, Chiorean A, Rieke DT, Clark KA, Jani P, Takahashi H, Horak P, Ritter DI, Zhou X, Ainscough BJ, Delong S, Lamping M, Marr AR, Li BV, Lin W, Terraf P, Salama Y, Campbell KM, Farncombe KM, Ji J, Zhao X, Xu X, Kanagal-Shamanna R, Cotto KC, Skidmore ZL, Walker JR, Zhang J, Milosavljevic A, Patel RY, Giles RH, Kim RH, Schriml LM, Mardis ER, Jones SJM, Raca Gordana, Rao S, Madhavan S, Wagner AH, Griffith M, Griffith OL" title="A community approach to the cancer-variant-interpretation bottleneck" journal="Nature Cancer. 2022 Jun" doi="10.1038/s43018-022-00379-w" pmid="35624339"%}
-
-{% include publication authors="Skidmore ZL, Kunisaki J, Lin Y, Cotto KC, Barnell EK, Hundal J, Krysiak K, Magrini V, Trani L, Walker JR, Fulton R, Brunt EM, Miller CA, Wilson RK, Mardis ER, Griffith M, Chapman W, Griffith OL" title="Genomic and transcriptomic somatic alterations of hepatocellular carcinoma in non-cirrhotic livers" journal="Cancer Genetics. 2022 Jun" doi="10.1016/j.cancergen.2022.04.002" pmid="35568002"%}
-
-{% include publication authors="Chiorean A, Farncombe KM, Delong S, Andric V, Ansar S, Chan C, Clark K, Danos AM, Gao Y, Giles RH, Goldenberg A, Jani P, Krysiak K, Kujan L, Macpherson S, Maher ER, McCoy LG, Salama Y, Saliba J, Sheta L, Griffith M, Griffith OL, Erdman L, Ramani A, Kim RH." title="Large scale genotype- and phenotype-driven machine learning in Von Hippel-Lindau disease" journal="Human Mutation. 2022 Apr" doi="10.1002/humu.24392" pmid="35475554"%}
-
-{% include publication authors="Wahle BM, Zolkind P, Ramirez RJ, Skidmore ZL, Anderson SR, Mazul A, Hayes DN, Sandulache VC, Thorstad WL, Adkins D, Griffith OL, Griffith M, Zevallos JP" title="Integrative genomic analysis reveals low T-cell infiltration as the primary feature of tobacco use in HPV-positive oropharyngeal cancer" journal="iScience. 2022 Apr" doi="10.1016/j.isci.2022.104216" pmid="35494251"%}
-
-{% include publication authors="Berrien-Elliott MM, Foltz JA, Russler-Germain DA, Neal CC, Tran J, Gang M, Wong P, Fisk B, Cubitt CC, Marin ND, Zhou AY, Jacobs MT, Foster M, Schappe T, McClain E, Kersting-Schadek S, Desai S, Pence P, Becker-Hapak M, Eisele J, Mosior M, Marsala L, Griffith OL, Griffith M, Khan SM, Spencer DH, DiPersio JF, Romee R, Uy GL, Abboud CN, Ghobadi A, Westervelt P, Stockerl-Goldstein K, Schroeder MA, Wan F, Lie WR, Soon-Shiong P, Petti AA, Cashen AF, Fehniger TA" title="Hematopoietic cell transplantation donor-derived memory-like NK cells functionally persist after transfer into patients with leukemia" journal="Science Translational Medicine. 2022 Feb" doi="10.1126/scitranslmed.abm1375" pmid="35196021"%}
-
-{% include publication authors="Horak P, Griffith M, Danos AM, Pitel BA, Madhavan S, Liu X, Chow C, Williams H, Carmody L, Barrow-Laing L, Rieke D, Kreutzfeldt S, Stenzinger A, Tambrero D, Benary M, Rajagopal PS, Ida CM, Lesmana H, Satgunaseelan L, Merker JD, Tolstorukov MY, Campregher PV, Warner JL, Rao S, Natesan M, Shen H, Venstrom J, Roy S, Tao K, Kanagal-Shamanna R, Xu X, Ritter DI, Pagel K, Krysiak K, Dubuc A, Akkari YM, Li XS, Lee J, King I, Raca G, Wagner AH, Li MM, Plon SE, Kulkarni S, Griffith OL, Chakravarty D, Sonkin D" title="Standards for the classification of pathogenicity of somatic variants in cancer (oncogenicity): Joint recommendations of Clinical Genome Resource (ClinGen), Cancer Genomics Consortium (CGC), and Variant Interpretation for Cancer Consortium (VICC)" journal="Genetics in Medicine. 2022 Jan" doi="10.1016/j.gim.2022.01.001" pmid="35101336"%}
-
-{% include publication authors="Zhou L, Zeng Z, Egloff AM, Zhang F, Guo F, Campbell KM, Du P, Fu J, Zolkind P, Ma X, Zhang Z, Zhang Y, Wang X, Gu S, Riley R, Nakahori Y, Keegan J, Haddad R, Schoenfeld JD, Griffith O, Manguso RT, Lederer JA, Liu XS, Uppaluri R" title="Checkpoint blockade-induced CD8+ T cell differentiation in head and neck cancer responders." journal="Journal of Immunotherapy in Cancer. 2022 Jan" doi="10.1136/jitc-2021-004034" pmid="35058328"%}
-
-{% include publication authors="Schaettler MO, Richters MM, Wang AZ, Skidmore ZL, Fisk B, Miller KE, Vickery TL, Kim AH, Chicoine MR, Osbun JW, Leuthardt EC, Downling JL, Zipfel GJ, Dacey RG, Lu H, Johanns TM, Griffith OL, Mardis ER, Griffith M, Dunn GP" title="Characterization of the Genomic and Immunologic Diversity of Malignant Brain Tumors through Multisector Analysis" journal="Cancer Discovery. 2022 Jan" doi="10.1158/2159-8290.CD-21-0291" pmid="34610950"%}
 
 <h2 data-magellan-destination="2021">2021</h2>
 <a name="2021"></a>
