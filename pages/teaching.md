@@ -14,7 +14,7 @@ header:
 
 * ECE4450J Introduction to Machine Learning: 2022 Fall
 * VE490 Undergraduate Research: 2022 Fall
-* ECE7609J Introduction to Machine Learning: 2023 Spring
+* ECE7609J Principles of Imaging Science: 2023 Summer
 
 ### Talks
 
