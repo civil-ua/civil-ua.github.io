@@ -82,7 +82,33 @@ header:
 <h2 data-magellan-destination="2022">2022</h2>
 <a name="2022"></a>
 
+<div class="paper">
+            <div><strong>Ideal Searcher with Inter-Saccade Response Correlations</strong><br>
+                Weimin Zhou, Miguel P Eckstein<br>
+                Journal of Vision<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+<p>
 
+<div class="paper">
+            <div><strong>Analyzing neural networks applied to an anatomical simulation of the breast</strong><br>
+                Craig K Abbey, Sourya Sengupta, Weimin Zhou, Andreu Badal, Rongping Zeng, Frank W Samuelson, Miguel P Eckstein, Kyle J Myers, Mark A Anastasio, Jovan G Brankov<br>
+                SPIE Medical Imaging 2022: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+<p>    
+    
+    
 
 
 
