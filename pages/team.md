@@ -27,7 +27,7 @@ header:
 <h2 data-magellan-destination="Postdoctoral_Researchers">Ph.D. Students</h2>
 <a name="Postdoctoral_Researchers"></a>
 
-{% include team_member member_name="Wentao" full_name="Wentao Chen" bio='Wentao Chen received the B.E. degree from Beijing University of Posts and Telecommunications in 2023. Currently, he is working toward a Ph.D. degree at University of Michigan-Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University. His research interests include computer vision, medical image analysis and deep learning.' image="/assets/img/team/wentao_chen.png" role="Ph.D. Student" %}
+{% include team_member member_name="Wentao" full_name="Wentao Chen" bio='Wentao Chen received the B.E. degree from Beijing University of Posts and Telecommunications in 2023. Currently, he is working toward a Ph.D. degree at University of Michigan-Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University. His research interests include computer vision, medical image analysis and deep learning.' image="/assets/img/team/wentao_chen.jpg" role="Ph.D. Student" %}
 
 <h2 data-magellan-destination="Graduate_Students">Master Students</h2>
 <a name="Graduate_Students"></a>
