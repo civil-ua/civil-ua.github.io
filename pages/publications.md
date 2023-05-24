@@ -28,7 +28,31 @@ header:
 <a name="2023"></a>
 
 <div class="paper">
-            <div><strong>Computational prediction of MHC anchor locations guides neoantigen identification and prioritization</strong><br>
+            <div><strong>Estimating task-based performance bounds for image reconstruction methods by use of learned-ideal observers</strong><br>
+                Kaiyan Li, Weimin Zhou, Hua Li, Mark A Anastasio<br>
+                SPIE Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+        
+<div class="paper">
+            <div><strong>Task-aware denoising autoencoders for establishing efficient channels</strong><br>
+                Weimin Zhou#<br>
+                SPIE Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>        
+
+<div class="paper">
+            <div><strong>Task-aware denoising autoencoders for establishing efficient channels</strong><br>
                 Weimin Zhou#<br>
                 SPIE Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment<br>
                 <a href="">[Paper]</a>
@@ -50,11 +74,6 @@ header:
           </div>
             <div class="spanner"></div>
         </div>
-
-
-
-
-
 
 
 
