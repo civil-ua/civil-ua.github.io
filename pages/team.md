@@ -32,7 +32,7 @@ header:
 <h2 data-magellan-destination="Graduate_Students">Master Students</h2>
 <a name="Graduate_Students"></a>
 
-{% include team_member member_name="Xichen" full_name="Xichen Xu" bio='Xichen Xu received the B.E. degree from South China University of Technology in 2023. He is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University. His research interests include image synthesis, image denoising and deep learning.' image="/assets/img/team/megan_richters.png" role="Graduate Student" %}
+{% include team_member member_name="Xichen" full_name="Xichen Xu" bio='Xichen Xu received the B.E. degree from South China University of Technology in 2023. He is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University. His research interests include image synthesis, image denoising and deep learning.' image="/assets/img/team/xichen_xu.png" role="Graduate Student" %}
 
 <h2 data-magellan-destination="Students_Interns">Students and Interns</h2>
 <a name="Students_Interns"></a>
