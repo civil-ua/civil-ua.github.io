@@ -35,7 +35,8 @@ header:
                 <br>
           </div>
             <div class="spanner"></div>
-        </div>
+   </div>
+<p> 
         
 <div class="paper">
             <div><strong>Task-aware denoising autoencoders for establishing efficient channels</strong><br>
@@ -49,9 +50,11 @@ header:
             <div class="spanner"></div>
         </div>        
 
+<p>
+
 <div class="paper">
-            <div><strong>Task-aware denoising autoencoders for establishing efficient channels</strong><br>
-                Weimin Zhou#<br>
+            <div><strong>Optimal visual search strategy with inter-saccade response correlations</strong><br>
+                Weimin Zhou, Miguel P Eckstein<br>
                 SPIE Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment<br>
                 <a href="">[Paper]</a>
                 <a href="">[Code]</a>
@@ -60,7 +63,7 @@ header:
           </div>
             <div class="spanner"></div>
         </div>
-
+<p>
 <div class="paper">
             <div><strong>Ideal Observer Computation by Use of Markov-Chain Monte Carlo with Generative Adversarial Networks</strong><br>
                 Weimin Zhou#, Umberto Villa, Mark A Anastasio#<br>
