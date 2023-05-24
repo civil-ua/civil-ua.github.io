@@ -6,11 +6,15 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
+<!--
+
 <div class="row">
     <div class="small-12 small-centered columns">
         <img src="/assets/img/MalachiAndObi.jpg">
     </div>
 </div>
+
+-->
 
 <div class="row">
     <div class="small-12 small-centered columns">
