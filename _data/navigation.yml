@@ -6,9 +6,9 @@
   url: "/research/"
   side: left
 
-- title: Software
-  url: "/software/"
-  side: left
+# - title: Software
+#   url: "/software/"
+#   side: left
 
 - title: Publications
   url: "/publications/"
@@ -29,17 +29,17 @@
   url: "/teaching/"
   side: left
 
-- title: Funding
-  url: "/funding/"
-  side: left
+# - title: Funding
+#   url: "/funding/"
+#   side: left
 
-- title: News
-  url: "/news/"
-  side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/news/archive/"
+# - title: News
+#   url: "/news/"
+#   side: left
+#   dropdown:
+#   - title: "News Archive"
+#     url: "/news/archive/"
 
 - title: Contact
   url: "/contact/"
-  side: right
+  side: left
