@@ -26,12 +26,16 @@ header:
 
 ### For Prospective Students
 
-We are hiring highly motivated students to join our group.
+We are hiring highly motivated students to join our group! 
 
+Our group has opening positions for Ph.D. and M.S. in each year. Please send a full CV with a complete list of your publications and projects, as well as, a academic transcript to Prof. Weimin Zhou. You can describe how your research interests match our group instead of simply asking whether there are quotas available.
+
+Undergraduate students can directly send emails to inquire about research intern position. Please send your CV and transcript to Prof. Weimin Zhou. In principle, recommendation letters will only be provided to undergraduate students with 6+ months research experience in our lab to ensure we have something concrete to comment.
 
 
 ### For Prospective Postdocs
 
+We are hiring highly motivated postdocs to join our group! Please send a full CV with a complete list of your publications and projects to Prof. Weimin Zhou. See the details [here](https://postd.sjtu.edu.cn/info/1086/2408.htm).
 
 
 <div class="row">
