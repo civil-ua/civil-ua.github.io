@@ -39,6 +39,24 @@ header:
             <div class="spanner"></div>
         </div>
 
+<div class="paper">
+            <div><strong>Ideal Observer Computation by Use of Markov-Chain Monte Carlo with Generative Adversarial Networks</strong><br>
+                Weimin Zhou#, Umberto Villa, Mark A Anastasio#<br>
+                arXiv preprint arXiv:2304.00433<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+
+
+
+
+
+
+
 
 
 <h2 data-magellan-destination="2022">2022</h2>
