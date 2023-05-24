@@ -106,10 +106,37 @@ header:
           </div>
             <div class="spanner"></div>
         </div>
-<p>    
-    
+<p>
+
+<div class="paper">
+            <div><strong>A deep Q-learning method for optimizing visual search strategies in backgrounds of dynamic noise</strong><br>
+                Weimin Zhou, Miguel P Eckstein<br>
+                SPIE Medical Imaging 2022: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+<p> 
+
+<div class="paper">
+            <div><strong>Learning stochastic object models from medical imaging measurements by use of advanced ambient generative adversarial networks</strong><br>
+                Weimin Zhou, Sayantan Bhadra, Frank J Brooks, Hua Li, Mark A Anastasio<br>
+                Journal of Medical Imaging<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+     
     
 
+
+    
 
 
 <h2 data-magellan-destination="2021">2021</h2>
