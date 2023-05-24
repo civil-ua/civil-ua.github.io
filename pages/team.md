@@ -12,9 +12,8 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Principal_Investigators"><a href="#Principal_Investigators">Principal Investigators</a></li>
-    <li data-magellan-arrival="Faculty"><a href="#Faculty">Faculty</a></li>
-    <li data-magellan-arrival="Postdoctoral_Researchers"><a href="#Postdoctoral_Researchers">Postdoctoral Researchers</a></li>
-    <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
+    <li data-magellan-arrival="Postdoctoral_Researchers"><a href="#Postdoctoral_Researchers">Ph.D. Students</a></li>
+    <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Master Students</a></li>
     <li data-magellan-arrival="Students_Interns"><a href="#Students_Interns">Students and Interns</a></li>
     <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
   </ul>
@@ -27,20 +26,15 @@ header:
 
 {% include team_member member_name="Obi" full_name="Obi L. Griffith, PhD" bio='Dr. Griffith is Associate Professor of Medicine (Oncology) and Genetics and Assistant Director of the McDonnell Genome Institute at Washington University. Dr. Griffith’s research is focused on the development of personalized medicine strategies for cancer. He develops bioinformatics tools and methods for the analysis of high throughput sequence data and identification of biomarkers for diagnostic, prognostic and drug response prediction. Dr Griffith is on the board of directors for the Cancer Genomics Committee, Steering Committee for the Global Alliance for Genomic Health, co-chair of the Variant Interpretation for Cancer Consortium, and editorial board for Cell Reports. He has published over 100 studies, received numerous research awards and honors and held several large grants from the NIH including a K22 Transition Career Development Award, U01/U24 for Development of Informatics Technologies for Cancer Research, and others. He has mentored more than 30 bioinformatics trainees and taught hundreds more as an instructor for Cold Spring Harbor Laboratories and the Canadian Bioinformatics Workshops.' image="/assets/img/team/obi_griffith.jpg" role="Principal Investigator" %}
 
-<h2 data-magellan-destination="Faculty">Faculty</h2>
-<a name="Faculty"></a>
-
-{% include team_member member_name="Felicia" full_name="Felicia Gomez, PhD" bio='Dr. Gomez is an Instructor working in collaboration with the Griffith and <a href="http://www.fehnigerlab.org/">Fehniger Laboratories</a> at the McDonnell Genome Institute and The <a href="http://oncology.wustl.edu">Department of Medicine – Division of Oncology</a>. Dr. Gomez is leading a deep sequencing analysis of Hodgkin lymphoma genomes with the goal of describing somatic events characteristic of this malignancy.  Dr. Gomez collaborates with members of the Griffith and Fehniger laboratories, as well was the Washington University Genomics Tumor Board on projects related to the genomics of Hodgkin and Non-Hodgkin lymphomas. Dr. Gomez’s research goals include developing strategies to translate genomic data into improved patient care. She is specifically interested in working toward the inclusion of diverse human populations in translational genomic research. Dr. Gomez also has a leadership role in the Department of Medicine as the co-chair of the Trainee Inclusion and Cultural Awareness Task Force. In this role she works to identify challenges related to diversity and inclusion that Medicine trainees face and the implementation of solutions to these challenges.' image="/assets/img/team/felicia_gomez.jpg" role="Instructor in Medicine" %}
 
 
 
-
-<h2 data-magellan-destination="Postdoctoral_Researchers">Postdoctoral Researchers and Fellows</h2>
+<h2 data-magellan-destination="Postdoctoral_Researchers">Ph.D. Students</h2>
 <a name="Postdoctoral_Researchers"></a>
 
 {% include team_member member_name="Kelsy" full_name="Kelsy Cotto, PhD" bio='Kelsy is a postdoctoral fellow in the Griffith lab. She received her PhD from the Molecular Cell Biology program at Washington University in St. Louis in 2022. She completed her undergraduate degree at Mercer University in 2016, where she earned a B.S. in Biochemistry and Molecular Biology. She is interested in developing methods to analyze multiple types of sequencing data in order to better understand regulatory mutations and splicing within cancer, with the hope of identifying novel biomarkers. Currently, she is involved with <a href="http://dgidb.org">DGIdb</a>, Regtools, and analysis of large scale clinical cohorts.' image="/assets/img/team/kelsy_cotto.jpg" role="Postdoctoral Fellow" %}
 
-<h2 data-magellan-destination="Graduate_Students">Graduate Students</h2>
+<h2 data-magellan-destination="Graduate_Students">Master Students</h2>
 <a name="Graduate_Students"></a>
 
 {% include team_member member_name="Xichen" full_name="Xichen Xu" bio='Megan Richters is a PhD Candidate in the Molecular Genetics and Genomics program at Washington University in St. Louis. She graduated from the University of Louisiana at Monroe in 2014 with a B.S. in Biology. She is interested in assessing the impact of intratumoral heterogeneity on neoantigen prediction accuracy as well as exploring novel sources of neoantigens for personalized cancer vaccines.' image="/assets/img/team/megan_richters.png" role="Graduate Student" %}
