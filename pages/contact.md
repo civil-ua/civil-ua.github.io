@@ -13,7 +13,7 @@ header:
 </div>
 
 <div class="row">
-    <div class="small-6 columns">
+    <div class="small-12 small-centered columns">
     <h5>Weimin Zhou</h5>
     <p>
       <b>Phone:</b> +86 314-747-9248<br>
@@ -23,6 +23,16 @@ header:
     </p>
     </div>
 </div>
+
+### For Prospective Students
+
+We are hiring highly motivated students to join our group.
+
+
+
+### For Prospective Postdocs
+
+
 
 <div class="row">
     <div class="small-12 small-centered columns">
