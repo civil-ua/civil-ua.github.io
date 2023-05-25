@@ -37,9 +37,9 @@ header:
 <h2 data-magellan-destination="Students_Interns">Students and Interns</h2>
 <a name="Students_Interns"></a>
 
-{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu" bio='Brian is a WASHU undergraduate student. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
+{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu" bio='Zhaochen Yu is an undergraduate student at Shanghai Jiao Tong University. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
 
-{% include team_member member_name="Brian_L" full_name="Brian Li" bio='Brian is a WASHU undergraduate student. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
+{% include team_member member_name="Runjin" full_name="Runjin Yu" bio='Runjin Yu is an undergraduate student at Shanghai Jiao Tong University. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
 
 
 <!--
