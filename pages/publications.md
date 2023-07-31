@@ -132,8 +132,8 @@ header:
           </div>
             <div class="spanner"></div>
         </div>
-     
-    
+
+
 
 
     
@@ -166,6 +166,89 @@ header:
           </div>
             <div class="spanner"></div>
         </div>
+
+<p>
+
+<div class="paper">
+            <div><strong>Assessing the Impact of Deep Neural Network-based Image Denoising on Binary Signal Detection Tasks</strong><br>
+                Kaiyan Li, Weimin Zhou, Hua Li, Mark A Anastasio<br>
+                IEEE Transactions on Medical Imaging<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+<p> 
+
+
+<div class="paper">
+            <div><strong>Supervised learning-based ideal observer approximation for joint detection and estimation tasks</strong><br>
+                Kaiyan Li, Weimin Zhou, Hua Li, Mark A Anastasio<br>
+                Medical Imaging 2021: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+<p> 
+
+<div class="paper">
+            <div><strong>Task-based performance evaluation of deep neural network-based image denoising</strong><br>
+                Kaiyan Li, Weimin Zhou, Hua Li, Mark A Anastasio<br>
+                Medical Imaging 2021: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+<p> 
+
+<div class="paper">
+            <div><strong>A hybrid channelized Hotelling observer for estimating the ideal linear observer for total-variation-based image reconstruction</strong><br>
+                John Paul Phillips, Emil Y Sidky, Greg Ongie, Weimin Zhou, Juan P Cruz-Bastida, Ingrid S Reiser, Mark A Anastasio, Xiaochuan Pan<br>
+                SPIE Medical Imaging 2021: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+<p> 
+
+
+<div class="paper">
+            <div><strong>SlabGAN: a method for generating efficient 3D anisotropic medical volumes using generative adversarial networks</strong><br>
+                Jason L Granstedt, Varun A Kelkar, Weimin Zhou, Mark A Anastasio<br>
+                Medical Imaging 2021: Image Processing<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+<p> 
+
+
+<div class="paper">
+            <div><strong>Advancing the AmbientGAN for learning stochastic object models</strong><br>
+                Weimin Zhou, Sayantan Bhadra, Frank J Brooks, Jason L Granstedt, Hua Li, Mark A Anastasio<br>
+                SPIE Medical Imaging 2021: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+
 
 
 
