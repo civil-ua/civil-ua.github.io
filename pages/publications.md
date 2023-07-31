@@ -156,9 +156,9 @@ header:
 <p>
 
 <div class="paper">
-            <div><strong>Analyzing neural networks applied to an anatomical simulation of the breast</strong><br>
-                Craig K Abbey, Sourya Sengupta, Weimin Zhou, Andreu Badal, Rongping Zeng, Frank W Samuelson, Miguel P Eckstein, Kyle J Myers, Mark A Anastasio, Jovan G Brankov<br>
-                SPIE Medical Imaging 2022: Image Perception, Observer Performance, and Technology Assessment<br>
+            <div><strong>A signal detection model for quantifying overregularization in nonlinear image reconstruction</strong><br>
+                Emil Y Sidky#, John Paul Phillips, Weimin Zhou, Greg Ongie, Juan P Cruz‐Bastida, Ingrid S Reiser, Mark A Anastasio, Xiaochuan Pan<br>
+                Medical Physics<br>
                 <a href="">[Paper]</a>
                 <a href="">[Code]</a>
                 <a href="">[BibTex]</a>
