@@ -40,9 +40,9 @@ header:
 <h2 data-magellan-destination="Students_Interns">Students and Interns</h2>
 <a name="Students_Interns"></a>
 
-{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu" bio='Zhaochen Yu is an undergraduate student at Shanghai Jiao Tong University. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
+{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu（于昭琛）" bio='Zhaochen Yu is an undergraduate student at Shanghai Jiao Tong University. He is also awarded the Pu Yuan Future Scholar in 2022. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
 
-{% include team_member member_name="Runjin" full_name="Runjin Yu" bio='Runjin Yu is an undergraduate student at Shanghai Jiao Tong University. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern' %}
+{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
 
 
 <!--
