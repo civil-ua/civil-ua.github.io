@@ -142,6 +142,30 @@ header:
 <h2 data-magellan-destination="2021">2021</h2>
 <a name="2021"></a>
 
+<div class="paper">
+            <div><strong>A Hybrid Approach for Approximating the Ideal Observer for Joint Signal Detection and Estimation Tasks by Use of Supervised Learning and Markov-Chain Monte Carlo Methods</strong><br>
+                Kaiyan Li, Weimin Zhou, Hua Li, Mark A Anastasio<br>
+                IEEE Transactions on Medical Imaging<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
+<p>
+
+<div class="paper">
+            <div><strong>Analyzing neural networks applied to an anatomical simulation of the breast</strong><br>
+                Craig K Abbey, Sourya Sengupta, Weimin Zhou, Andreu Badal, Rongping Zeng, Frank W Samuelson, Miguel P Eckstein, Kyle J Myers, Mark A Anastasio, Jovan G Brankov<br>
+                SPIE Medical Imaging 2022: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
 
 
 
