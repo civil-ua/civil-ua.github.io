@@ -277,18 +277,36 @@ header:
 <h2 data-magellan-destination="2017">2017</h2>
 <a name="2017"></a>
 
+<div class="paper">
+            <div><strong>Generation of anatomically realistic numerical phantoms for photoacoustic and ultrasonic breast imaging</strong><br>
+                Yang Lou, Weimin Zhou, Thomas P Matthews, Catherine M Appleton, Mark A Anastasio<br>
+                Journal of Biomedical Optics<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
 
 
 
-<hr>
 
 <h2 data-magellan-destination="2016">2016</h2>
 <a name="2016"></a>
 
 
-
-
-<hr>
+<div class="paper">
+            <div><strong>Double Alternating Minimization (DAM) for Phase Retrieval in the Presence of Poisson Noise and Pixelation</strong><br>
+                Weimin Zhou<br>
+                Washington University in St. Louis<br>
+                <a href="">[Paper]</a>
+                <a href="">[Code]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>
 
 
 
