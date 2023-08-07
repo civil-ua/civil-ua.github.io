@@ -12,7 +12,7 @@ header:
 
 ### At Shanghai Jiao Tong University
 
-* ECE4450J Introduction to Machine Learning: 2022 Fall
+* ECE4450J Introduction to Machine Learning: 2022 Fall, 2023 Fall
 * VE490 Undergraduate Research: 2022 Fall
 * ECE7609J Principles of Imaging Science: 2023 Summer
 
