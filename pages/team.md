@@ -21,7 +21,7 @@ header:
 <h2 data-magellan-destination="Principal_Investigators">Principal Investigators</h2>
 <a name="Principal_Investigators"></a>
 
-{% include team_member member_name="Weimin" full_name="Weimin Zhou, Ph.D." bio='Dr. Weimin Zhou is an Assistant Professor at Global Institute of Future Technology, Shanghai Jiao Tong University. He was a postdoctoral scholar in the Department of Psychological & Brain Sciences at University of California, Santa Barbara (UCSB). Before joining UCSB in 2020, he was a research assistant in the Department of Biomedical Engineering at Washington University in St. Louis (WashU) and a visiting scholar in the Department of Bioengineering at University of Illinois at Urbana-Champaign (UIUC). Dr. Zhou received his dual BSc(Eng) degrees in Telecommunications Engineering with Management from Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) in 2014. He earned his M.S. and Ph.D. degrees in Electrical Engineering at WashU in 2016 and 2020, respectively. Dr. Zhou is the recipient of the SPIE Community Champion and the SPIE Medical Imaging Cum Laude Poster Award (best poster award). His research utilizes various tools to advance biomedical imaging technologies and bridges the fields of biomedical imaging, machine learning, vision science, and image science. His work on machine learning-enabled task-based image quality assessment was published in the top medical imaging journal IEEE TMI.' image="/assets/img/team/weimin_zhou.jpg" role="Principal Investigator" %}
+{% include team_member member_name="Weimin" full_name="Weimin Zhou, Ph.D." bio='Dr. Weimin Zhou is an Assistant Professor at Global Institute of Future Technology, Shanghai Jiao Tong University. He was a postdoctoral scholar in the Department of Psychological & Brain Sciences at University of California, Santa Barbara (UCSB). Before joining UCSB in 2020, he was a research assistant in the Department of Biomedical Engineering at Washington University in St. Louis (WashU) and a visiting scholar in the Department of Bioengineering at University of Illinois at Urbana-Champaign (UIUC). Dr. Zhou received his dual BSc (Eng) degrees in Telecommunications Engineering with Management from Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) in 2014. He earned his M.S. and Ph.D. degrees in Electrical Engineering at WashU in 2016 and 2020, respectively. Dr. Zhou is the recipient of the SPIE Community Champion and the SPIE Medical Imaging Cum Laude Poster Award (best poster award). His research utilizes various tools to advance biomedical imaging technologies and bridges the fields of biomedical imaging, machine learning, vision science, and image science. His work on machine learning-enabled task-based image quality assessment was published in the top medical imaging journal IEEE TMI.' image="/assets/img/team/weimin_zhou.jpg" role="Principal Investigator" %}
 
 
 <h2 data-magellan-destination="Postdoctoral_Researchers">Ph.D. Students</h2>
@@ -41,9 +41,13 @@ header:
 <h2 data-magellan-destination="Students_Interns">Students and Interns</h2>
 <a name="Students_Interns"></a>
 
-{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu（于昭琛）" bio='Zhaochen Yu is an undergraduate student at Shanghai Jiao Tong University. He is also awarded the Pu Yuan Future Scholar in 2022. Brian is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu（于昭琛）" bio='Zhaochen Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is also a member of the GIFT Future Scholar Program. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
 
-{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+
+{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming Ph.D. student at the IICV lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+
+
 
 
 <!--
