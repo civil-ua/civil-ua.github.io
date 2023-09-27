@@ -6,11 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/team/"
 header:
-<<<<<<< HEAD
     # image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
-=======
-    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
->>>>>>> 8d01d22b1c8de3447eb4388248b5951fbc0356a0
 ---
 
 <div data-magellan-expedition="fixed">
@@ -36,21 +32,12 @@ header:
 <h2 data-magellan-destination="Graduate_Students">Master Students</h2>
 <a name="Graduate_Students"></a>
 
-<<<<<<< HEAD
 {% include team_member member_name="Kaixin" full_name="Kaixin Shen（沈恺欣）" bio='Kaixin Shen received the B.E. degree from Shanghai Jiao Tong University in 2023. He is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University.' image="/assets/img/team/kaixin_shen.jpg" role="M.E. Student (2023-)" %}
 
 {% include team_member member_name="Tianming" full_name="Tianming Xu（徐天明）" bio='Tianming Xu received the B.E. degree from Shanghai University in 2023. She is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University.' image="/assets/img/team/tianming_xu.jpg" role="M.E. Student (2023-)" %}
 
 {% include team_member member_name="Xichen" full_name="Xichen Xu（徐希辰）" bio='Xichen Xu received the B.E. degree from South China University of Technology in 2023. He is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University. His research interests include image synthesis, image denoising and deep learning.' image="/assets/img/team/xichen_xu.jpg" role="M.E. Student (2023-)" %}
 
-=======
-{% include team_member member_name="Xichen" full_name="Xichen Xu（徐希辰）" bio='Xichen Xu received the B.E. degree from South China University of Technology in 2023. He is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University. His research interests include image synthesis, image denoising and deep learning.' image="/assets/img/team/xichen_xu.jpg" role="M.E. Student (2023-)" %}
-
-{% include team_member member_name="Kaixin" full_name="Kaixin Shen（沈恺欣）" bio='Kaixin Shen received the B.E. degree from Shanghai Jiao Tong University in 2023. He is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University.' image="/assets/img/team/brian_li.jpg" role="M.E. Student (2023-)" %}
-
-{% include team_member member_name="Tianming" full_name="Tianming Xu（徐天明）" bio='Tianming Xu received the B.E. degree from Shanghai University in 2023. She is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University.' image="/assets/img/team/brian_li.jpg" role="M.E. Student (2023-)" %}
-
->>>>>>> 8d01d22b1c8de3447eb4388248b5951fbc0356a0
 <h2 data-magellan-destination="Students_Interns">Students and Interns</h2>
 <a name="Students_Interns"></a>
 
