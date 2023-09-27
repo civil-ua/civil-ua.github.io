@@ -8,13 +8,21 @@
 #                                                 /____/
 #
 # Title of your website
+<<<<<<< HEAD
 title: 'IICV Lab'
+=======
+title: 'Griffith Lab'
+>>>>>>> 8d01d22b1c8de3447eb4388248b5951fbc0356a0
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: ''
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+<<<<<<< HEAD
 description: 'This is the website for Intelligent Imaging and Computational Vision Laboratory'
+=======
+description: 'This is the website for the academic lab of Malachi and Obi Griffith'
+>>>>>>> 8d01d22b1c8de3447eb4388248b5951fbc0356a0
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on the theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -44,7 +52,11 @@ urlimg: 'http://griffithlab.org/images/'
 
 
 # Logo size is 600x80 pixels
+<<<<<<< HEAD
 logo: "LogoWhite.png"
+=======
+logo: "Site_Logo4.png"
+>>>>>>> 8d01d22b1c8de3447eb4388248b5951fbc0356a0
 
 # Gems
 gems:

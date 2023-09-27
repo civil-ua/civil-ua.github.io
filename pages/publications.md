@@ -6,7 +6,11 @@ subheadline: ""
 teaser: ""
 permalink: "/publications/"
 header:
+<<<<<<< HEAD
     # image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+=======
+    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+>>>>>>> 8d01d22b1c8de3447eb4388248b5951fbc0356a0
 ---
 
 <div data-magellan-expedition="fixed">
@@ -260,6 +264,7 @@ header:
 
 <h2 data-magellan-destination="2020">2020</h2>
 <a name="2020"></a>
+<<<<<<< HEAD
 <div class="paper">
             <div><strong>Developing signal detectability as an image quality metric for use with non-linear image reconstruction</strong><br>
                 Emil Y Sidky, Weimin Zhou, Greg Ongie, Juan P Cruz-Bastida, Ingrid S Reiser, Mark A Anastasio, Xiaochuan Pan<br>
@@ -540,6 +545,26 @@ header:
             <div class="spanner"></div>
         </div>
 <p>
+=======
+
+
+
+
+<h2 data-magellan-destination="2019">2019</h2>
+<a name="2019"></a>
+
+
+
+
+
+<h2 data-magellan-destination="2018">2018</h2>
+<a name="2018"></a>
+
+
+
+
+
+>>>>>>> 8d01d22b1c8de3447eb4388248b5951fbc0356a0
 
 
 <h2 data-magellan-destination="2017">2017</h2>

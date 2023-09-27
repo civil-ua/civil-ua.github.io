@@ -5,6 +5,7 @@ This is the github repo for the Intelligent Imaging and Computational Vision Lab
 ## License
 
 The code for this site is licensed under an MIT license, images may have specific attribution requirements and are licensed individually under assets/img/image_attribution
+<<<<<<< HEAD
 
 ```
 iicv-sjtu.github.io-master
@@ -510,3 +511,5 @@ iicv-sjtu.github.io-master
    └─ _functions.scss
 
 ```
+=======
+>>>>>>> 8d01d22b1c8de3447eb4388248b5951fbc0356a0

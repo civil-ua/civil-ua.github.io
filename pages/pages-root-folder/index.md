@@ -24,8 +24,14 @@ permalink: /index.html
 #
 homepage: true
 header:
+<<<<<<< HEAD
     # image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---      
+=======
+    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+---
+
+>>>>>>> 8d01d22b1c8de3447eb4388248b5951fbc0356a0
 <div class="row">
   <div class="small-6 columns">
     <img src="/assets/img/lab_photo_Dec2017_cropped_v2.jpg">
