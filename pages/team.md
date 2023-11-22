@@ -29,6 +29,11 @@ header:
 
 {% include team_member member_name="Wentao" full_name="Wentao Chen（陈文涛）" bio='Wentao Chen received the B.E. degree from Beijing University of Posts and Telecommunications in 2023. Currently, he is working toward a Ph.D. degree at University of Michigan-Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University. His research interests include computer vision, medical image analysis and deep learning.' image="/assets/img/team/wentao_chen.jpg" role="Ph.D. Student (2023-)" %}
 
+{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming Ph.D. student at the IICV lab starting from Fall 2024.' /assets/img/team/yaozhi_zhang.jpg" role="Ph.D. Student (2024-)" %}
+
+
+
+
 <h2 data-magellan-destination="Graduate_Students">Master Students</h2>
 <a name="Graduate_Students"></a>
 
@@ -45,12 +50,22 @@ header:
 
 {% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/runjin_yu.jpg' role='Intern (2023-)' %}
 
-{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming Ph.D. student at the IICV lab.' image='/assets/img/team/yaozhi_zhang.jpg' role='Intern (2023-)' %}
-
 
 
 
 <!--
+
+<h2 data-magellan-destination="Former_Students">Former Students</h2>
+<a name="Former_Students"></a>
+
+{% include team_member member_name="Hanyu" full_name="Hanyu Ying（应涵宇）" bio='Hanyu Ying is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is now a master student at University of Southern California.' image='/assets/img/team/brian_li.jpg' role='Intern (2022)' %}
+
+{% include team_member member_name="Xueru" full_name="Xueru Jiang（蒋学儒）" bio='Xueru Jiang is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2022)' %}
+
+{% include team_member member_name="Zeyu" full_name="Zeyu Zhang（张泽宇）" bio='Zeyu Zhang is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2022)' %}
+
+
+
 
 <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
 
