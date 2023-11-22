@@ -55,11 +55,11 @@ header:
 <h2 data-magellan-destination="Former_Students">Former Students</h2>
 <a name="Students_Interns"></a>
 
-{% include team_member member_name="Hanyu" full_name="Hanyu Ying（应涵宇）" bio='Hanyu Ying is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is now a master student at University of Southern California.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+{% include team_member member_name="Hanyu" full_name="Hanyu Ying（应涵宇）" bio='Hanyu Ying is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is now a master student at University of Southern California.' image='/assets/img/team/brian_li.jpg' role='Intern (2022)' %}
 
-{% include team_member member_name="Xueru" full_name="Xueru Jiang（蒋学儒）" bio='Xueru Jiang is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+{% include team_member member_name="Xueru" full_name="Xueru Jiang（蒋学儒）" bio='Xueru Jiang is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2022)' %}
 
-{% include team_member member_name="Zeyu" full_name="Zeyu Zhang（张泽宇）" bio='Zeyu Zhang is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+{% include team_member member_name="Zeyu" full_name="Zeyu Zhang（张泽宇）" bio='Zeyu Zhang is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2022)' %}
 
 
 <!--
