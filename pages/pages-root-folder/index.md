@@ -33,7 +33,7 @@ header:
   </div>
     
   <div class="small-6 columns">
-    <img src="/assets/img/lab-photo.jpeg">
+    <img src="/assets/img/group-photo.jpg">
   </div>
     
 
