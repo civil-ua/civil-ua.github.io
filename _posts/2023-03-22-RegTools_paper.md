@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Publication"
+title:  "Lab Publication - Scientific Reports"
 teaser: "Ideal Observer Computation by Use of Markov-Chain Monte Carlo with Generative Adversarial Networks."
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 breadcrumb: true
