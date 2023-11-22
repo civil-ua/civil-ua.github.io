@@ -29,11 +29,9 @@ header:
 <div class="row">
   <div class="small-6 columns">
     <img src="/assets/img/lab-photo.jpeg">
+  </div>
     
-  </div>
-  <div class="small-6 columns">
-    <img src="/assets/img/lab_photo_Aug2022_cropped.jpeg">
-  </div>
+
 </div>
 
 <div class="row">
