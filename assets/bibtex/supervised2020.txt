@@ -1,0 +1,6 @@
+@inproceedings{supervised2020,
+  title={Supervised Learning-Based Ideal Observer Approximation for Joint Detection and Estimation Tasks},
+  author={Li, Kaiyan and Zhou, Weimin and He, Shenghua and Li, Hua and Anastasio, Mark A.},
+  booktitle={2020 Joint AAPM/COMP Meeting},
+  year={2020}
+}

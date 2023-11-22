@@ -1,0 +1,9 @@
+@inproceedings{markovchain2020,
+  title={Markov-chain monte carlo approximation of the ideal observer using generative adversarial networks},
+  author={Zhou, Weimin and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2020: Image Perception, Observer Performance, and Technology Assessment},
+  volume={11316},
+  pages={46-52},
+  year={2020},
+  organization={SPIE}
+}

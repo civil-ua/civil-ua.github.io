@@ -1,0 +1,6 @@
+@inproceedings{quantitative2020,
+  title={Quantitative Performance Analysis of Supervised Transfer Learning and Unsupervised Domain Adaptation Methods Employed in Medical Imaging Applications},
+  author={He, Shenghua and Zhou, Weimin and Li, Kaiyan and Anastasio, Mark A. and Li, Hua},
+  booktitle={2020 Joint AAPM/COMP Meeting},
+  year={2020}
+}

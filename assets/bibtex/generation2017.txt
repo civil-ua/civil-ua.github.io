@@ -1,0 +1,10 @@
+@article{generation2017,
+  title={Generation of anatomically realistic numerical phantoms for photoacoustic and ultrasonic breast imaging},
+  author={Lou, Yang and Zhou, Weimin and Matthews, Thomas P and Appleton, Catherine M and Anastasio, Mark A.},
+  journal={Journal of biomedical optics},
+  volume={22},
+  number={4},
+  pages={041015-041015},
+  year={2017},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}

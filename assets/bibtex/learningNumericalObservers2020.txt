@@ -1,0 +1,9 @@
+@inproceedings{learningNumericalObservers2020,
+  title={Learning numerical observers using unsupervised domain adaptation},
+  author={He, Shenghua and Zhou, Weimin and Li, Hua and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2020: Image Perception, Observer Performance, and Technology Assessment},
+  volume={11316},
+  pages={178-185},
+  year={2020},
+  organization={SPIE}
+}

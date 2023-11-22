@@ -1,0 +1,9 @@
+@inproceedings{learningEfficientChannels2020,
+  title={Learning efficient channels with a dual loss autoencoder},
+  author={Granstedt, Jason L. and Zhou, Weimin and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2020: Image Perception, Observer Performance, and Technology Assessment},
+  volume={11316},
+  pages={38-45},
+  year={2020},
+  organization={SPIE}
+}

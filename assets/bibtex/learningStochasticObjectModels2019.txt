@@ -1,0 +1,9 @@
+@inproceedings{learningStochasticObjectModels2019,
+  title={Learning stochastic object model from noisy imaging measurements using AmbientGANs},
+  author={Zhou, Weimin and Bhadra, Sayantan and Brooks, Frank and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2019: Image Perception, Observer Performance, and Technology Assessment},
+  volume={10952},
+  pages={142-148},
+  year={2019},
+  organization={SPIE}
+}

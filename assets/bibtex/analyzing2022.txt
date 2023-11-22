@@ -1,0 +1,9 @@
+@inproceedings{analyzing2022,
+  title={Analyzing neural networks applied to an anatomical simulation of the breast},
+  author={Abbey, Craig K. and Sengupta, Sourya and Zhou, Weimin and Badal, Andreu and Zeng, Rongping and Samuelson, Frank W. and Eckstein, Miguel P. and Myers, Kyle J. and Anastasio, Mark A. and Brankov, Jovan G.},
+  booktitle={Medical Imaging 2022: Image Perception, Observer Performance, and Technology Assessment},
+  volume={12035},
+  pages={16-25},
+  year={2022},
+  organization={SPIE}
+}

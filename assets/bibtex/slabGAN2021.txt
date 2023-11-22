@@ -1,0 +1,9 @@
+@inproceedings{slabGAN2021,
+  title={SlabGAN: a method for generating efficient 3D anisotropic medical volumes using generative adversarial networks},
+  author={Granstedt, Jason L. and Kelkar, Varun A. and Zhou, Weimin and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2021: Image Processing},
+  volume={11596},
+  pages={329-335},
+  year={2021},
+  organization={SPIE}
+}

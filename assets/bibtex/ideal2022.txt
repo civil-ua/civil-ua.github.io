@@ -1,0 +1,10 @@
+@article{ideal2022,
+  title={Ideal Searcher with Inter-Saccade Response Correlations},
+  author={Zhou, Weimin and Eckstein, Miguel},
+  journal={Journal of Vision},
+  volume={22},
+  number={14},
+  pages={3820-3820},
+  year={2022},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}

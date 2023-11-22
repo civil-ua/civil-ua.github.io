@@ -1,0 +1,10 @@
+@article{learningIdealObserver2019,
+  title={Approximating the ideal observer and Hotelling observer for binary signal detection tasks by use of supervised learning methods},
+  author={Zhou, Weimin and Li, Hua and Anastasio, Mark A.},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={38},
+  number={10},
+  pages={2456-2468},
+  year={2019},
+  publisher={IEEE}
+}

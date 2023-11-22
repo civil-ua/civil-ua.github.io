@@ -1,0 +1,9 @@
+@inproceedings{progressively2020,
+  title={Progressively-Growing AmbientGANs for learning stochastic object models from imaging measurements},
+  author={Zhou, Weimin and Bhadra, Sayantan and Brooks, Frank J. and Li, Hua and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2020: Image Perception, Observer Performance, and Technology Assessment},
+  volume={11316},
+  pages={113160Q},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}

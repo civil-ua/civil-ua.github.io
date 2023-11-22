@@ -1,0 +1,10 @@
+@article{learning2022,
+  title={Learning stochastic object models from medical imaging measurements by use of advanced ambient generative adversarial networks},
+  author={Zhou, Weimin and Bhadra, Sayantan and Brooks, Frank J. and Li, Hua and Anastasio, Mark A.},
+  journal={Journal of Medical Imaging},
+  volume={9},
+  number={1},
+  pages={015503-015503},
+  year={2022},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}

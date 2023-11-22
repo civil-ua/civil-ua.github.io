@@ -1,0 +1,10 @@
+@article{assessing2021,
+  title={Assessing the Impact of Deep Neural Network-based Image Denoising on Binary Signal Detection Tasks},
+  author={Li, Kaiyan and Zhou, Weimin and Li, Hua and Anastasio, Mark A.},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={40},
+  number={9},
+  pages={2295-2305},
+  year={2021},
+  publisher={IEEE}
+}

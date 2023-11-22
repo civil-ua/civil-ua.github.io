@@ -1,0 +1,6 @@
+@article{double2016,
+  title={Double Alternating Minimization (DAM) for Phase Retrieval in the Presence of Poisson Noise and Pixelation},
+  author={Zhou, Weimin},
+  journal={},
+  year={2016}
+}

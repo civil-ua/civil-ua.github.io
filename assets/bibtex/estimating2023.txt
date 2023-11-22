@@ -1,0 +1,9 @@
+@inproceedings{estimating2023,
+  title={Estimating task-based performance bounds for image reconstruction methods by use of learned-ideal observers},
+  author={Li, Kaiyan and Zhou, Weimin and Li, Hua and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment},
+  volume={12467},
+  pages={120-125},
+  year={2023},
+  organization={SPIE}
+}

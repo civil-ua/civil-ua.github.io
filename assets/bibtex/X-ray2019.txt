@@ -1,0 +1,8 @@
+@inproceedings{X-ray2019,
+  title={X-ray Phase Contrast Imaging of Soft Biomaterials in a Whole-Animal Model},
+  author={Brown, Jacob and Somo, Sami and Brooks, Frank and Komarov, Sergey and Zhou, Weimin and Anastasio, Mark and Brey, Eric},
+  booktitle={42nd Society for Biomaterials Annual Meeting and Exposition 2019: The Pinnacle of Biomaterials Innovation and Excellence},
+  pages={971},
+  year={2019},
+  organization={Society for Biomaterials}
+}

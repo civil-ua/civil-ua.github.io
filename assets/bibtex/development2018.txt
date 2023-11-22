@@ -1,0 +1,9 @@
+@inproceedings{development2018,
+  title={Development of computed phase-sensitive x-ray imaging technologies for pre-clinical science (Conference Presentation)},
+  author={Anastasio, Mark A. and Brooks, Frank and Komarov, Sergey and Chen, Yujia and Zhou, Weimin},
+  booktitle={Anomaly Detection and Imaging with X-Rays (ADIX) III},
+  volume={10632},
+  pages={106320I},
+  year={2018},
+  organization={SPIE}
+}

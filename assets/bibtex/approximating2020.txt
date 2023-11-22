@@ -1,0 +1,10 @@
+@article{approximating2020,
+  title={Approximating the ideal observer for joint signal detection and localization tasks by use of supervised learning methods},
+  author={Zhou, Weimin and Li, Hua and Anastasio, Mark A.},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={39},
+  number={12},
+  pages={3992-4000},
+  year={2020},
+  publisher={IEEE}
+}

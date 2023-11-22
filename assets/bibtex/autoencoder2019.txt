@@ -1,0 +1,9 @@
+@inproceedings{autoencoder2019,
+  title={Autoencoder embedding of task-specific information},
+  author={Granstedt, Jason L and Zhou, Weimin and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2019: Image Perception, Observer Performance, and Technology Assessment},
+  volume={10952},
+  pages={34-40},
+  year={2019},
+  organization={SPIE}
+}

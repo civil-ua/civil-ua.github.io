@@ -1,0 +1,7 @@
+@inproceedings{developing2020,
+  title={Developing signal detectability as an image quality metric for use with non-linear image reconstruction},
+  author={Sidky, Emil Y. and Zhou, Weimin and Ongie, Greg and Cruz-Bastida, Juan P. and Reiser, Ingrid S. and Anastasio, Mark A. and Pan, Xiaochuan},
+  booktitle={The 6th International Conference on Image Formation in X-Ray Computed Tomography},
+  pages={618-621},
+  year={2020}
+}

@@ -1,0 +1,9 @@
+@inproceedings{optimal2023,
+  title={Optimal visual search strategy with inter-saccade response correlations},
+  author={Zhou, Weimin and Eckstein, Miguel P.},
+  booktitle={Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment},
+  volume={12467},
+  pages={12-18},
+  year={2023},
+  organization={SPIE}
+}

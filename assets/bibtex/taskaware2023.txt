@@ -1,0 +1,9 @@
+@inproceedings{taskaware2023,
+  title={Task-aware denoising autoencoders for establishing efficient channels},
+  author={Zhou, Weimin},
+  booktitle={Medical Imaging 2023: Image Perception, Observer Performance, and Technology Assessment},
+  volume={12467},
+  pages={297-303},
+  year={2023},
+  organization={SPIE}
+}

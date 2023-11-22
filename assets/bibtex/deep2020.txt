@@ -1,0 +1,6 @@
+@article{deep2020,
+  title={Deep Learning for Task-Based Image Quality Assessment in Medical Imaging},
+  author={Zhou, Weimin},
+  year={2020},
+  institution={Washington University in St. Louis}
+}

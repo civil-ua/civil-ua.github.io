@@ -1,0 +1,9 @@
+@inproceedings{supervised2021,
+  title={Supervised learning-based ideal observer approximation for joint detection and estimation tasks},
+  author={Li, Kaiyan and Zhou, Weimin and Li, Hua and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2021: Image Perception, Observer Performance, and Technology Assessment},
+  volume={11599},
+  pages={115990F},
+  year={2021},
+  organization={International Society for Optics and Photonics}
+}

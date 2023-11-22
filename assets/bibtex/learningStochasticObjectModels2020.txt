@@ -1,0 +1,6 @@
+@article{learningStochasticObjectModels2020,
+  title={Learning stochastic object models from medical imaging measurements using Progressively-Growing AmbientGANs},
+  author={Zhou, Weimin and Bhadra, Sayantan and Brooks, Frank J. and Li, Hua and Anastasio, Mark A.},
+  journal={arXiv preprint arXiv:2006.00033},
+  year={2020}
+}

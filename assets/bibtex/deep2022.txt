@@ -1,0 +1,9 @@
+@inproceedings{deep2022,
+  title={A deep Q-learning method for optimizing visual search strategies in backgrounds of dynamic noise},
+  author={Zhou, Weimin and Eckstein, Miguel P.},
+  booktitle={Medical Imaging 2022: Image Perception, Observer Performance, and Technology Assessment},
+  volume={12035},
+  pages={60-67},
+  year={2022},
+  organization={SPIE}
+}

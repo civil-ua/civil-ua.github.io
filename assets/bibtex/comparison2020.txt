@@ -1,0 +1,10 @@
+@article{comparison2020,
+  title={Comparison of data-acquisition designs for single-shot edge-illumination X-ray phase-contrast tomography},
+  author={Chen, Yujia and Zhou, Weimin and Hagen, Charlotte K. and Olivo, Alessandro and Anastasio, Mark A.},
+  journal={Optics Express},
+  volume={28},
+  number={1},
+  pages={1-19},
+  year={2020},
+  publisher={Optica Publishing Group}
+}

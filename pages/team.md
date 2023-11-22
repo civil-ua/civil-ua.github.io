@@ -41,11 +41,11 @@ header:
 <h2 data-magellan-destination="Students_Interns">Students and Interns</h2>
 <a name="Students_Interns"></a>
 
-{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu（于昭琛）" bio='Zhaochen Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is also a member of the GIFT Future Scholar Program. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu（于昭琛）" bio='Zhaochen Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is also a member of the GIFT Future Scholar Program. He is working on the CIViC project with the lab.' image='/assets/img/team/zhaochen_yu.jpg' role='Intern (2023-)' %}
 
-{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/runjin_yu.jpg' role='Intern (2023-)' %}
 
-{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming Ph.D. student at the IICV lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming Ph.D. student at the IICV lab.' image='/assets/img/team/yaozhi_zhang.jpg' role='Intern (2023-)' %}
 
 
 

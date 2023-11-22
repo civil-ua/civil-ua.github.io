@@ -1,0 +1,9 @@
+@inproceedings{learning2018,
+  title={Learning the ideal observer for SKE detection tasks by use of convolutional neural networks (Cum Laude Poster Award)},
+  author={Zhou, Weimin and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2018: Image Perception, Observer Performance, and Technology Assessment},
+  volume={10577},
+  pages={287-292},
+  year={2018},
+  organization={SPIE}
+}

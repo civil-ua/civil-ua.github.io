@@ -1,0 +1,10 @@
+@article{hybrid2021,
+  title={A Hybrid approach for approximating the ideal observer for joint signal detection and estimation tasks by use of supervised learning and Markov-chain Monte Carlo methods},
+  author={Li, Kaiyan and Zhou, Weimin and Li, Hua and Anastasio, Mark A.},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={41},
+  number={5},
+  pages={1114-1124},
+  year={2021},
+  publisher={IEEE}
+}

@@ -1,0 +1,9 @@
+@inproceedings{joint2018,
+  title={Joint-reconstruction-enabled data acquisition design for single-shot edge-illumination x-ray phase-contrast tomography},
+  author={Chen, Yujia and Zhou, Weimin and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2018: Physics of Medical Imaging},
+  volume={10573},
+  pages={522-527},
+  year={2018},
+  organization={SPIE}
+}

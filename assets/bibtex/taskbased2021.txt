@@ -1,0 +1,9 @@
+@inproceedings{taskbased2021,
+  title={Task-based performance evaluation of deep neural network-based image denoising},
+  author={Li, Kaiyan and Zhou, Weimin and Li, Hua and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2021: Image Perception, Observer Performance, and Technology Assessment},
+  volume={11599},
+  pages={114-118},
+  year={2021},
+  organization={SPIE}
+}

@@ -1,0 +1,9 @@
+@inproceedings{hybridChannelized2021,
+  title={A hybrid channelized Hotelling observer for estimating the ideal linear observer for total-variation-based image reconstruction},
+  author={Phillips, John Paul and Sidky, Emil Y. and Ongie, Greg and Zhou, Weimin and Cruz-Bastida, Juan P. and Reiser, Ingrid S. and Anastasio, Mark A. and Pan, Xiaochuan},
+  booktitle={Medical Imaging 2021: Image Perception, Observer Performance, and Technology Assessment},
+  volume={11599},
+  pages={57-62},
+  year={2021},
+  organization={SPIE}
+}

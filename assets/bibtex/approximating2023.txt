@@ -1,0 +1,10 @@
+@article{approximating2023,
+  title={Approximating the Hotelling observer with autoencoder-learned efficient channels for binary signal detection tasks},
+  author={Granstedt, Jason L. and Zhou, Weimin and Anastasio, Mark A.},
+  journal={Journal of Medical Imaging},
+  volume={10},
+  number={5},
+  pages={055501-055501},
+  year={2023},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}

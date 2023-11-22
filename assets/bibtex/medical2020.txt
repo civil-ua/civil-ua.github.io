@@ -1,0 +1,9 @@
+@inproceedings{medical2020,
+  title={Medical image reconstruction with image-adaptive priors learned by use of generative adversarial networks},
+  author={Bhadra, Sayantan and Zhou, Weimin and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2020: Physics of Medical Imaging},
+  volume={11312},
+  pages={206-213},
+  year={2020},
+  organization={SPIE}
+}

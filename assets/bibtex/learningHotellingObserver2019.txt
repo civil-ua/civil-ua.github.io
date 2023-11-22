@@ -1,0 +1,9 @@
+@inproceedings{learningHotellingObserver2019,
+  title={Learning the Hotelling observer for SKE detection tasks by use of supervised learning methods},
+  author={Zhou, Weimin and Li, Hua and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2019: Image Perception, Observer Performance, and Technology Assessment},
+  volume={10952},
+  pages={41-46},
+  year={2019},
+  organization={SPIE}
+}

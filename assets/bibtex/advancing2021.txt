@@ -1,0 +1,9 @@
+@inproceedings{advancing2021,
+  title={Advancing the AmbientGAN for learning stochastic object models},
+  author={Zhou, Weimin and Bhadra, Sayantan and Brooks, Frank J. and Granstedt, Jason L. and Li, Hua and Anastasio, Mark A.},
+  booktitle={Medical Imaging 2021: Image Perception, Observer Performance, and Technology Assessment},
+  volume={11599},
+  pages={36-43},
+  year={2021},
+  organization={SPIE}
+}

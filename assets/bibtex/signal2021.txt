@@ -1,0 +1,9 @@
+@article{signal2021,
+  title={A signal detection model for quantifying overregularization in nonlinear image reconstruction},
+  author={Sidky, Emil Y. and Phillips, John Paul and Zhou, Weimin and Ongie, Greg and Cruz-Bastida, Juan P. and Reiser, Ingrid S. and Anastasio, Mark A. and Pan, Xiaochuan},
+  journal={Medical Physics},
+  volume={48},
+  number={10},
+  pages={6312-6323},
+  year={2021}
+}
