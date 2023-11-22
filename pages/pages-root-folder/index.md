@@ -28,7 +28,7 @@ header:
 ---      
 <div class="row">
   <div class="small-6 columns">
-    <img src="/assets/img/lab_photo_Dec2017_cropped_v2.jpg">
+    <img src="/assets/img/lab-photo.jpeg">
     
   </div>
   <div class="small-6 columns">
