@@ -15,6 +15,7 @@ header:
     <li data-magellan-arrival="Postdoctoral_Researchers"><a href="#Postdoctoral_Researchers">Ph.D. Students</a></li>
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Master Students</a></li>
     <li data-magellan-arrival="Students_Interns"><a href="#Students_Interns">Students and Interns</a></li>
+    <li data-magellan-arrival="Former_Students"><a href="#Former_Students">Former Students</a></li>
   </ul>
 </div>
 
@@ -28,6 +29,11 @@ header:
 <a name="Postdoctoral_Researchers"></a>
 
 {% include team_member member_name="Wentao" full_name="Wentao Chen（陈文涛）" bio='Wentao Chen received the B.E. degree from Beijing University of Posts and Telecommunications in 2023. Currently, he is working toward a Ph.D. degree at University of Michigan-Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University. His research interests include computer vision, medical image analysis and deep learning.' image="/assets/img/team/wentao_chen.jpg" role="Ph.D. Student (2023-)" %}
+
+{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming Ph.D. student at the IICV lab starting from Fall 2024.'image="/assets/img/team/brian_li.jpg" role="Ph.D. Student (2024-)" %}
+
+
+
 
 <h2 data-magellan-destination="Graduate_Students">Master Students</h2>
 <a name="Graduate_Students"></a>
@@ -45,9 +51,15 @@ header:
 
 {% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
 
-{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming Ph.D. student at the IICV lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
 
+<h2 data-magellan-destination="Former_Students">Former Students</h2>
+<a name="Students_Interns"></a>
 
+{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+
+{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
+
+{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2023-)' %}
 
 
 <!--
