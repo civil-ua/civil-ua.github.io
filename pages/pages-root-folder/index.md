@@ -58,6 +58,47 @@ Research in the IICV Lab is conducted within the Global Institute of Future Tech
 </div>
 
 
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="/assets/img/research/visual_search.jpg" style="width:100%">
+    <div class="text">Caption Text</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="/assets/img/research/mcmc_gan.jpg" style="width:100%">
+    <div class="text">Caption Two</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="/assets/img/research/FL_Histone_CoOccurence.png" style="width:100%">
+    <div class="text">Caption Three</div>
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+
+
+
+
+
+<!--
+
 <div class="slideshow-container" style="position: relative;margin-top:2%;">
   <!-- 左箭头 -->
   <a class="prev" style="position: absolute; top: 50%; transform: translateY(-50%); left:-10%; width: 40px; height: 40px; background-color: rgba(0, 64, 152, 0.4); border-radius: 5px; padding: 10px; color: white; z-index: 2; transition: width 0.3s, height 0.3s; display: flex; justify-content: center; align-items: center;" onclick="plusSlides(-1)" onmouseover="this.style.width='50px';" onmouseout="this.style.width='40px';"><span aria-hidden="true" style="font-size: 30px;">&#10094;</span></a>
@@ -177,3 +218,5 @@ Research in the IICV Lab is conducted within the Global Institute of Future Tech
     dots[slideIndex - 1].className += " active";
   }
 </script>
+
+-->
