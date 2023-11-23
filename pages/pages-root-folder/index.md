@@ -26,19 +26,17 @@ homepage: true
 header:
     # image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---      
-<div class="row">
-  <div class="small-6 columns">
-    <img src="/assets/img/lab_photo_Dec2017_cropped_v2.jpg">
-    
-  </div>
-  <div class="small-6 columns">
-    <img src="/assets/img/lab_photo_Aug2022_cropped.jpeg">
+
+
+<div class="row" style="text-align: center;">
+  <div class="small-6 columns" style="text-align: center;">
+    <img src="/assets/img/Lab_photo_202308.jpg" style = "margin-left:50%;">
   </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
   
-</div>
+</div> -->
 
 ## Research Overview
 The Intelligent Imaging & Computational Vision (IICV) Laboratory investigates artificial intelligence and machine learning (AI/ML) for imaging science and vision science. 
@@ -50,3 +48,127 @@ Our current projects include:
 4. Deep learning for task-driven computational imaging.
 
 Research in the IICV Lab is conducted within the Global Institute of Future Technology (GIFT) at Shanghai Jiao Tong University (SJTU). Students in the IICV Lab come from various institutes including GIFT and UM-SJTU JI. The IICV Lab is directed by Prof. Weimin Zhou.
+<div class="row">
+  
+</div>
+
+
+<div class="slideshow-container" style="position: relative;margin-top:2%;">
+  <!-- 左箭头 -->
+  <a class="prev" style="position: absolute; top: 50%; transform: translateY(-50%); left:-10%; width: 40px; height: 40px; background-color: rgba(0, 64, 152, 0.4); border-radius: 5px; padding: 10px; color: white; z-index: 2; transition: width 0.3s, height 0.3s; display: flex; justify-content: center; align-items: center;" onclick="plusSlides(-1)" onmouseover="this.style.width='50px';" onmouseout="this.style.width='40px';"><span aria-hidden="true" style="font-size: 30px;">&#10094;</span></a>
+
+  <!-- 右箭头 -->
+  <a class="prev" style="position: absolute; top: 50%; transform: translateY(-50%); right:-10%; width: 40px; height: 40px; background-color: rgba(0, 64, 152, 0.4); border-radius: 5px; padding: 10px; color: white; z-index: 2; transition: width 0.3s, height 0.3s; display: flex; justify-content: center; align-items: center;" onclick="plusSlides(-1)" onmouseover="this.style.width='50px';" onmouseout="this.style.width='40px';"><span aria-hidden="true" style="font-size: 30px;">&#10095;</span></a>
+
+
+
+  <div class="mySlides fade">
+    <img src="/assets/img/research/ALL1_GraphicalAbstract_neutral.png" style="width:150%;">
+    <div class="caption">Title of Picture1</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <img src="/assets/img/research/AML31_Slider_Image.png" style="width:120%;">
+    <div class="caption">Title of picture2</div>
+  </div>
+  
+  <div class="mySlides fade">
+    <img src="/assets/img/research/FL_Histone_CoOccurence.png" style="width:120%;">
+    <div class="caption">Title of picture3</div>
+  </div>
+
+  <!-- 圆点指示器 -->
+  <div class="row" style="margin-left:80%; position: absolute; bottom: 10px; width: 100%;">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+  </div>
+</div>
+  
+
+
+<style>
+  .mySlides {
+    display: none;
+    transition: opacity 1s ease; /* 使用 opacity 属性设置渐变效果 */
+  }
+
+  .fade {
+    animation-name: fade;
+    animation-duration: 1s;
+  }
+
+  @keyframes fade {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  .dot {
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: rgba(0, 64, 152, 0.4);
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+  }
+
+  .active, .dot:hover {
+    background-color: rgba(0, 64, 152, 1);
+  }
+
+  .prev,
+  .next {
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .prev:hover,
+  .next:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  .caption {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background-color: rgba(0, 64, 152, 0.6);
+    color: white;
+    padding: 8px;
+    font-size: 14px;
+  }
+</style>
+
+<script>
+    let slideIndex = 1;
+  showSlides(slideIndex);
+
+  // 自动切换
+  setInterval(function() {
+    plusSlides(1); // 5秒
+  }, 5000); 
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    let i;
+    const slides = document.getElementsByClassName("mySlides");
+    const dots = document.getElementsByClassName("dot");
+    if (n > slides.length) { slideIndex = 1 }
+    if (n < 1) { slideIndex = slides.length }
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex - 1].style.display = "block";
+    dots[slideIndex - 1].className += " active";
+  }
+</script>
