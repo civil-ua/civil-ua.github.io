@@ -54,18 +54,41 @@ Our current projects include:
 4. Deep learning for task-driven computational imaging.
 
 Research in the IICV Lab is conducted within the Global Institute of Future Technology (GIFT) at Shanghai Jiao Tong University (SJTU). Students in the IICV Lab come from various institutes including GIFT and UM-SJTU JI. The IICV Lab is directed by Prof. Weimin Zhou.
-<div class="row">
-  
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="/assets/img/research/visual_search.jpg" style="width:100%">
+  <div class="text">Caption Text</div>
 </div>
 
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="/assets/img/research/mcmc_gan.jpg" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: none}
-img {vertical-align: middle;}
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/assets/img/research/AmGAN.png" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+* {box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
@@ -74,14 +97,19 @@ img {vertical-align: middle;}
   margin: auto;
 }
 
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
   position: absolute;
   top: 50%;
   width: auto;
-  padding: 16px;
   margin-top: -22px;
+  padding: 16px;
   color: white;
   font-weight: bold;
   font-size: 18px;
@@ -148,48 +176,6 @@ img {vertical-align: middle;}
   to {opacity: 1}
 }
 
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
-}
-</style>
-</head>
-<body>
-
-<div class="slideshow-container">
-
-<div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="/assets/img/research/visual_search.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="/assets/img/research/mcmc_gan.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="/assets/img/research/AmGAN.png" style="width:100%">
-  <div class="text">Caption Three</div>
-</div>
-
-<a class="prev" onclick="plusSlides(-1)">❮</a>
-<a class="next" onclick="plusSlides(1)">❯</a>
-
-</div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
-</div>
-
-<script>
-
 
 
 
@@ -209,10 +195,6 @@ function showSlides() {
 }
 
 
-    
-</script>
-
-</body>
 
 
 
