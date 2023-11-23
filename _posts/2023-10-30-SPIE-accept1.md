@@ -2,8 +2,6 @@
 layout: page
 title:  "Paper Acceptance - SPIE Medical Imaging 2024"
 teaser: "Wentao's paper has been accepted for oral presentation at SPIE Medical Imaging 2024."
-header:
-    # image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 breadcrumb: true
 ---
 
