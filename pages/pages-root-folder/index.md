@@ -68,12 +68,12 @@ Research in the IICV Lab is conducted within the Global Institute of Future Tech
 
 
   <div class="mySlides fade">
-    <img src="/assets/img/research/ALL1_GraphicalAbstract_neutral.png" style="width:150%;">
+    <img src="/assets/img/research/visual_search.jpg" style="width:150%;">
     <div class="caption">Title of Picture1</div>
   </div>
   
   <div class="mySlides fade">
-    <img src="/assets/img/research/AML31_Slider_Image.png" style="width:120%;">
+    <img src="/assets/img/research/mcmc_gan.jpg" style="width:120%;">
     <div class="caption">Title of picture2</div>
   </div>
   
