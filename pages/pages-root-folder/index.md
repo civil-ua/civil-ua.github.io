@@ -215,29 +215,30 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
 }
+
+
+
+    let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none"; 
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1} 
+  slides[slideIndex-1].style.display = "block"; 
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+
+
+    
 </script>
 
 </body>
 
 
-<div class="w3-content" style="max-width:1200px">
-  <img class="mySlides" src="/assets/img/research/mcmc_gan.jpg" style="width:100%">
-  <img class="mySlides" src="/assets/img/research/mcmc_gan.jpg" style="width:100%">
-  <img class="mySlides" src="/assets/img/research/mcmc_gan.jpg" style="width:100%">
 
-  <div class="w3-row-padding w3-section">
-    <div class="w3-col s4">
-      <img class="demo w3-opacity" src="img_nature_wide.jpg"
-      style="width:100%" onclick="currentDiv(1)">
-    </div>
-    <div class="w3-col s4">
-      <img class="demo w3-opacity" src="img_snow_wide.jpg"
-      style="width:100%;display:none" onclick="currentDiv(2)">
-    </div>
-    <div class="w3-col s4">
-      <img class="demo w3-opacity" src="img_mountains_wide.jpg"
-      style="width:100%;display:none" onclick="currentDiv(3)">
-    </div>
-  </div>
-</div>
 
