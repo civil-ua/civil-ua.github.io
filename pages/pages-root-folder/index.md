@@ -46,27 +46,7 @@ header:
 
 ## Research Overview
 
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
 
-        .responsive-text {
-            font-size: 2vw; /* 使用视口宽度单位 */
-        }
-
-        @media only screen and (max-width: 600px) {
-            .responsive-text {
-                font-size: 5vw; /* 在较小的屏幕上增加字体大小 */
-            }
-        }
-    </style>
-</head>
-<body>
-
-<div class="responsive-text">
 The Intelligent Imaging & Computational Vision (IICV) Laboratory investigates artificial intelligence and machine learning (AI/ML) for imaging science and vision science. 
 
 Our current projects include:
@@ -76,12 +56,6 @@ Our current projects include:
 4. Deep learning for task-driven computational imaging.
 
 Research in the IICV Lab is conducted within the Global Institute of Future Technology (GIFT) at Shanghai Jiao Tong University (SJTU). Students in the IICV Lab come from various institutes including GIFT and UM-SJTU JI. The IICV Lab is directed by Prof. Weimin Zhou.
-</div>
-
-</body>
-
-
-
 <div class="row">
   
 </div>
