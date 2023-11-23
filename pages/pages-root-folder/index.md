@@ -246,7 +246,7 @@ function showSlides(n) {
   </div>
   
   <div class="mySlides fade">
-    <img src="/assets/img/research/FL_Histone_CoOccurence.png" style="width:100%;">
+    <img src="/assets/img/research/AmGAN.png" style="width:100%;">
     <div class="caption">Title of picture3</div>
   </div>
 
