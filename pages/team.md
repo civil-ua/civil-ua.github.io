@@ -61,11 +61,11 @@ header:
 <h2 data-magellan-destination="Former_Students">Former Students</h2>
 <a name="Former_Students"></a>
 
-Hanyu Ying (2022): Master, University of Southern California
+Hanyu Ying (Intern, 2022) Next: Master, University of Southern California
 
-Zeyu Zhang (2022): Master, Shanghai Jiao Tong University
+Zeyu Zhang (Intern, 2022) Next: Master, Shanghai Jiao Tong University
 
-Xueru Jiang (2022):
+Xueru Jiang (Intern, 2022)
 
 
 
