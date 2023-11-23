@@ -7,7 +7,7 @@ header:
 breadcrumb: true
 ---
 
-Wentao's paper “Ambient-cGAN for medical image-to-image translation by use of noisy measurement data” have been accepted for oral presentation at SPIE Medical Imaging 2024. Congratulations! 
+Wentao's paper “Ambient-cGAN for medical image-to-image translation by use of noisy measurement data” has been accepted for oral presentation at SPIE Medical Imaging 2024. Congratulations! 
 
 <div class="row">
     <div class="small-12 columns">
