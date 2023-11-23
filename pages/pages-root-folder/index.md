@@ -192,7 +192,7 @@ img {vertical-align: middle;}
 
 
 let slideIndex = 0;
-showSlides_();
+showSlides();
 
 function plusSlides(n) {
   showSlides_(slideIndex += n);
