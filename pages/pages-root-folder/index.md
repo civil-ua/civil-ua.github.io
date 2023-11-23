@@ -26,12 +26,17 @@ homepage: true
 header:
     # image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---      
+<div class="row">
 
-
-<div class="row" style="text-align: center;">
-  <div class="small-6 columns" style="text-align: center;">
-    <img src="/assets/img/Lab_photo_202308.jpg" style = "margin-left:50%;">
+  <div class="small-6 columns">
+    <img src="/assets/img/SJTU-photo.jpg">
   </div>
+    
+  <div class="small-6 columns">
+    <img src="/assets/img/group-photo.jpg">
+  </div>
+    
+
 </div>
 
 <!-- <div class="row">
