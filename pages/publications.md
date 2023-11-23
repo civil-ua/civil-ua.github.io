@@ -27,6 +27,32 @@ header:
 <h2 data-magellan-destination="2024">2024</h2>
 <a name="2024"></a>
 
+<div class="paper">
+            <div><strong>AmbientCycleGAN for translating simple stochastic object models to realistic stochastic object models</strong><br>
+                Xichen Xu, Wentao Chen, Weimin Zhou<br>
+                SPIE Medical Imaging 2024: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>        
+
+<p>
+
+<div class="paper">
+            <div><strong>Ambient-cGAN for medical image-to-image translation by use of noisy measurement data</strong><br>
+                Wentao Chen, Xichen Xu, Jie Luo, Weimin Zhou<br>
+                SPIE Medical Imaging 2024: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>        
+
+<p>
+
 
 <h2 data-magellan-destination="2023">2023</h2>
 <a name="2023"></a>
