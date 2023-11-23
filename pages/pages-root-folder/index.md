@@ -44,7 +44,7 @@ header:
   
 </div> -->
 
-## Research Overview
+### Research Overview
 The Intelligent Imaging & Computational Vision (IICV) Laboratory investigates artificial intelligence and machine learning (AI/ML) for imaging science and vision science. 
 
 Our current projects include:
