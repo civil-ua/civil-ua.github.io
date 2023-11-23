@@ -4,8 +4,8 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
-#layout: page-fullwidth
+# layout: frontpage
+layout: page
 
 #
 # Use the call for action to show a button on the frontpage
