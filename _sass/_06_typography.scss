@@ -485,13 +485,14 @@ font-smoothing: antialiased;
 .icon-pinterest:before { content: "\f123"; }
 .icon-price-tag:before { content: "\f124"; }
 .icon-rocket:before { content: "\f125"; }
+
 .icon-rss:before { content: "\f126"; }
 .icon-soundcloud:before { content: "\f127"; }
 .icon-star:before { content: "\f128"; }
 .icon-star-outlined:before { content: "\f129"; }
 .icon-thumbs-down:before { content: "\f12a"; }
 .icon-thumbs-up:before { content: "\f12b"; }
-.icon-tree:before { content: "\f134"; }
+.icon-tree:before { background-image: url('../img/SJTU-icon.png'); content:"\f134";color:transparent; background-size: cover;}
 .icon-tumblr:before { content: "\f12c"; }
 .icon-twitter:before { content: "\f12d"; }
 .icon-upload-to-cloud:before { content: "\f12e"; }
