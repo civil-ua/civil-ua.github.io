@@ -63,7 +63,7 @@ Research in the IICV Lab is conducted within the Global Institute of Future Tech
   <a class="prev" style="position: absolute; top: 50%; transform: translateY(-50%); left:0%; width: 40px; height: 40px; background-color: rgba(0, 64, 152, 0.4); border-radius: 5px; padding: 10px; color: white; z-index: 2; transition: width 0.3s, height 0.3s; display: flex; justify-content: center; align-items: center;" onclick="plusSlides(-1)" onmouseover="this.style.width='50px';" onmouseout="this.style.width='40px';"><span aria-hidden="true" style="font-size: 30px;">&#10094;</span></a>
 
   <!-- 右箭头 -->
-  <a class="prev" style="position: absolute; top: 50%; transform: translateY(-50%); right:0%; width: 40px; height: 40px; background-color: rgba(0, 64, 152, 0.4); border-radius: 5px; padding: 10px; color: white; z-index: 2; transition: width 0.3s, height 0.3s; display: flex; justify-content: center; align-items: center;" onclick="plusSlides(1)" onmouseover="this.style.width='50px';" onmouseout="this.style.width='40px';"><span aria-hidden="true" style="font-size: 30px;">&#10095;</span></a>
+  <a class="prev" style="position: absolute; top: 50%; transform: translateY(-50%); right:0%; width: 40px; height: 40px; background-color: rgba(0, 64, 152, 0.4); border-radius: 5px; padding: 10px; color: white; z-index: 2; transition: width 0.3s, height 0.3s; display: flex; justify-content: center; align-items: center;" onclick="plusSlides(-1)" onmouseover="this.style.width='50px';" onmouseout="this.style.width='40px';"><span aria-hidden="true" style="font-size: 30px;">&#10095;</span></a>
 
 
 
@@ -151,7 +151,7 @@ Research in the IICV Lab is conducted within the Global Institute of Future Tech
   // 自动切换
   setInterval(function() {
     plusSlides(1); // 5秒
-  }, 8000); 
+  }, 5000); 
 
   function plusSlides(n) {
     showSlides(slideIndex += n);

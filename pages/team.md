@@ -15,6 +15,9 @@ header:
     <li data-magellan-arrival="Postdoctoral_Researchers"><a href="#Postdoctoral_Researchers">Ph.D. Students</a></li>
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Master Students</a></li>
     <li data-magellan-arrival="Students_Interns"><a href="#Students_Interns">Students and Interns</a></li>
+    <li data-magellan-arrival="Former_Students"><a href="#Former_Students">Former Students</a></li>
+
+      
   </ul>
 </div>
 
@@ -53,18 +56,25 @@ header:
 
 
 
-<!--
+
 
 <h2 data-magellan-destination="Former_Students">Former Students</h2>
 <a name="Former_Students"></a>
 
-{% include team_member member_name="Hanyu" full_name="Hanyu Ying（应涵宇）" bio='Hanyu Ying is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is now a master student at University of Southern California.' image='/assets/img/team/brian_li.jpg' role='Intern (2022)' %}
+Hanyu Ying (Intern, 2022) Next: Master, University of Southern California
 
-{% include team_member member_name="Xueru" full_name="Xueru Jiang（蒋学儒）" bio='Xueru Jiang is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2022)' %}
+Zeyu Zhang (Intern, 2022) Next: Master, Shanghai Jiao Tong University
 
-{% include team_member member_name="Zeyu" full_name="Zeyu Zhang（张泽宇）" bio='Zeyu Zhang is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/brian_li.jpg' role='Intern (2022)' %}
+Xueru Jiang (Intern, 2022)
 
 
+
+
+
+
+
+
+<!--
 
 
 <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
