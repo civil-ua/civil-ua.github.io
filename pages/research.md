@@ -36,7 +36,7 @@ overview
 
   team="Weimin Zhou"
 
-  image="/assets/img/research/GP-127_CIViC_simplified-overview_v2d.png"
+  image="/assets/img/research/IO-HO-learning.png"
 
   citation="Griffith, Spies, Krysiak et al. 2017. Nature Genetics. 49(2):170–174."
 
