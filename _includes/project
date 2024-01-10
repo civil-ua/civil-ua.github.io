@@ -26,7 +26,7 @@
       <p>
 
         {% if include.web %}
-          <a href=include.web>{{ include.citation }}</a><br>
+          <a href="{{ include.web }}">{{ include.citation }}</a><br>
         {% else %}
           {{ include.citation }}<br>
         {% endif %}
