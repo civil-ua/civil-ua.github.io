@@ -44,6 +44,18 @@ overview
 
 %}
 
+{% include project
+  title="Ideal Observer Computation by Use of Markov-Chain Monte Carlo with Generative Adversarial Networks"
+
+  description="Extensive."
+
+  team="Weimin Zhou"
+
+%}
+
+
+
+
 <h2 data-magellan-destination="Precision_medicine">Reconstruction</h2>
 <a name="Precision_medicine"></a>
 
