@@ -26,16 +26,11 @@
       <p>
 
         {% if include.web %}
-          <a href="{{ include.web }}">{{ include.citation0 }}</a><br>
-        {% else %}
-          {{ include.citation0 }}<br>
-        {% endif %}
-
-        {% if include.pmid %}
-          <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid }}">{{ include.citation }}</a><br>
+          <a href="{{ include.web }}">{{ include.citation }}</a><br>
         {% else %}
           {{ include.citation }}<br>
         {% endif %}
+
 
         {% if include.pmid2 %}
           <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid2 }}">{{ include.citation2 }}</a><br>
