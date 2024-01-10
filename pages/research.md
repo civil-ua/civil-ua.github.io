@@ -36,7 +36,7 @@ overview
 
   image="/assets/img/research/IO-HO-learning.png"
 
-  citation="Zhou et al. 2019. IEEE Transactions on Medical Imaging. 38(10):2456–2468."
+  citation0="Zhou et al. 2019. IEEE Transactions on Medical Imaging. 38(10):2456–2468."
   web = https://ieeexplore.ieee.org/abstract/document/8691467
 
 
@@ -49,7 +49,7 @@ overview
 
   image="/assets/img/research/IO-HO-learning.png"
 
-  citation="Zhou et al. 2023. IEEE Transactions on Medical Imaging. 42(12):3715–3724."
+  citation0="Zhou et al. 2023. IEEE Transactions on Medical Imaging. 42(12):3715–3724."
 
 %}
 
