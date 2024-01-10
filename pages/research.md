@@ -48,7 +48,7 @@ overview
 
   description="Extensive."
 
-  team="Weimin Zhou"
+  
 
 %}
 
@@ -63,7 +63,7 @@ overview
 
   description="Extensive."
 
-  team="Weimin Zhou"
+  
 
 %}
 
