@@ -30,11 +30,11 @@ overview
 <a name="IPOC"></a>
 
 {% include project
-  title="CIViC: a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer"
+  title="Supervised Learning for Approximating the Bayesian Ideal Observer and the Hotelling Observer"
 
-  description="CIViC."
+  description="When optimizing imaging systems for signal detection tasks (e.g., detection of a tumor), it has been advocated to use the performance of the Bayesian Ideal Observer (IO) as a figure-of-merit (FOM). In this way, the imaging system can be optimized in such a way that the amount of task-specific information in the measurement data is maximized. The IO for a binary signal detection task implements a test statistic given by the likelihood ratio and maximizes the area under the receiver operating characteris- tic (ROC) curve. The IO has also been employed to assess the efficiency of human observers on signal detection tasks. The IO test statistic is generally a non-linear function of the image data and, except in some special cases, cannot be determined analytically. When the IO is intractable, the Hotelling Observer (HO) can be employed to optimize imaging systems for signal detection tasks. However, implementation of the HO is also not without challenges. Specifically, it requires the estimation and inversion of a covariance matrix that can be enormous. In this work, supervised learning-based methods that employ artificial neural networks for approximating the IO test statistic are explored systematically for binary signal detection tasks in which the observer acts on 2D image data. For the special case of the HO, an alternative supervised learning methodology is proposed that employs single-layer neural networks (SLNNs) for learning the Hotelling template without the need for explicitly estimating and inverting covariance matrices."
 
-  team="Wentao Chen"
+  team="Weimin Zhou"
 
   image="/assets/img/research/GP-127_CIViC_simplified-overview_v2d.png"
 
