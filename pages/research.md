@@ -26,8 +26,8 @@ overview
 
 
 
-<h2 data-magellan-destination="Variant_interpretation">Image Quality Assessment</h2>
-<a name="Variant_interpretation"></a>
+<h2 data-magellan-destination="IPOC">Image Perception and Observer Computation</h2>
+<a name="IPOC"></a>
 
 {% include project
   title="CIViC: a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer"
