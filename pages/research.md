@@ -12,7 +12,7 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
-    <li data-magellan-arrival="Variant_interpretation"><a href="#Variant_interpretation">Variant interpretation</a></li>
+    <li data-magellan-arrival="IPOC"><a href="#IPOC">Image Perception and Observer Computation</a></li>
     <li data-magellan-arrival="Precision_medicine"><a href="#Precision_medicine">Precision medicine</a></li>
   </ul>
 </div>
