@@ -31,7 +31,6 @@
           {{ include.citation }}<br>
         {% endif %}
 
-
         {% if include.pmid2 %}
           <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid2 }}">{{ include.citation2 }}</a><br>
         {% else %}
