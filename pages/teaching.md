@@ -15,7 +15,7 @@ header:
 * ECE4450J Introduction to Machine Learning: 2022 Fall, 2023 Fall
 * VE490 Undergraduate Research: 2022 Fall
 * ECE7609J Principles of Imaging Science: 2023 Summer
-* ECE6501G Principles of Medical Imaging: 2024 Spring
+* [ECE6501G Principles of Medical Imaging](): 2024 Spring
 
 ### At Conferences/Talks
 
