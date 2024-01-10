@@ -56,7 +56,7 @@ overview
 
 
 <h2 data-magellan-destination="IGAI">Image Generative AI Models</h2>
-<a name="Precision_medicine"></a>
+<a name="IGAI"></a>
 
 {% include project
   title="Advanced-AmbientGAN for establishing stochastic object models"
