@@ -38,7 +38,7 @@ overview
 
   image="/assets/img/research/IO-HO-learning.png"
 
-  citation="Griffith, Spies, Krysiak et al. 2017. Nature Genetics. 49(2):170–174."
+  citation="Zhou et al. 2019. IEEE Transactions on Medical Imaging. 38(10):2456–2468."
 
   pmid="28138153"
 
@@ -49,7 +49,7 @@ overview
 
   description="Extensive."
 
-  team="Weimin Zhou"
+  #team="Weimin Zhou"
 
 %}
 
