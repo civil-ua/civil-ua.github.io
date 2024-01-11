@@ -44,6 +44,8 @@ overview
 
   web2="https://ieeexplore.ieee.org/abstract/document/9139307"
 
+  Team="Weimin Zhou"
+
 %}
 
 {% include project
@@ -56,6 +58,8 @@ overview
   citation="Zhou et al. 2023. IEEE Transactions on Medical Imaging. 42(12):3715–3724."
 
   web="https://ieeexplore.ieee.org/document/10216380"
+
+  Team="Weimin Zhou"
 
 %}
 
