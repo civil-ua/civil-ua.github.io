@@ -44,7 +44,7 @@ overview
 
   web2="https://ieeexplore.ieee.org/abstract/document/9139307"
 
-  Team="Weimin Zhou"
+  team="Weimin Zhou"
 
 %}
 
@@ -59,7 +59,7 @@ overview
 
   web="https://ieeexplore.ieee.org/document/10216380"
 
-  Team="Weimin Zhou"
+  team="Weimin Zhou"
 
 %}
 
@@ -79,7 +79,7 @@ overview
 
   web2="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12467/1246705/Optimal-visual-search-strategy-with-inter-saccade-response-correlations/10.1117/12.2655817.full"
 
-  Team="Weimin Zhou"
+  team="Weimin Zhou"
 
 %}
 
