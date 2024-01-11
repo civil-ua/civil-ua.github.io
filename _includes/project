@@ -31,14 +31,14 @@
           {{ include.citation }}<br>
         {% endif %}
 
-        {% if include.pmid2 %}
-          <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid2 }}">{{ include.citation2 }}</a><br>
+        {% if include.web2 %}
+          <a href="{{ include.web2 }}">{{ include.citation2 }}</a><br>
         {% else %}
           {{ include.citation2 }}<br>
         {% endif %}
 
-        {% if include.pmid3 %}
-          <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ include.pmid3 }}">{{ include.citation3 }}</a><br>
+        {% if include.web3 %}
+          <a href="{{ include.web3 }}">{{ include.citation3 }}</a><br>
         {% else %}
           {{ include.citation3 }}<br>
         {% endif %}
