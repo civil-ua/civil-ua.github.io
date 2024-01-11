@@ -19,7 +19,6 @@ header:
     <li data-magellan-arrival="2019"><a href="#2019">2019</a></li>
     <li data-magellan-arrival="2018"><a href="#2018">2018</a></li>
     <li data-magellan-arrival="2017"><a href="#2017">2017</a></li>
-    <li data-magellan-arrival="2016"><a href="#2016">2016</a></li>
   </ul>
 </div>
 
@@ -423,17 +422,7 @@ header:
             <div class="spanner"></div>
         </div>
 <p> 
-<div class="paper">
-            <div><strong>Deep Learning for Task-Based Image Quality Assessment in Medical Imaging</strong><br>
-                Weimin Zhou<br>
-                Washington University in St. Louis<br>
-                <a href="https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1669&context=eng_etds">[Paper]</a>
-                <a href="/assets/bibtex/deep2020.txt">[BibTex]</a>
-                <br>
-          </div>
-            <div class="spanner"></div>
-        </div>
-<p> 
+
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
 <div class="paper">
@@ -556,20 +545,7 @@ header:
 
 
 
-<h2 data-magellan-destination="2016">2016</h2>
-<a name="2016"></a>
 
-
-<div class="paper">
-            <div><strong>Double Alternating Minimization (DAM) for Phase Retrieval in the Presence of Poisson Noise and Pixelation</strong><br>
-                Weimin Zhou<br>
-                Washington University in St. Louis<br>
-                <a href="https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1149&context=eng_etds">[Paper]</a>
-                <a href="/assets/bibtex/double2016.txt">[BibTex]</a>
-                <br>
-          </div>
-            <div class="spanner"></div>
-        </div>
 
 
 
