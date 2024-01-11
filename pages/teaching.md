@@ -17,14 +17,5 @@ header:
 * ECE7609J Principles of Imaging Science: 2023 Summer
 * [ECE6501G Principles of Medical Imaging](): 2024 Spring
 
-### At Conferences/Talks
 
-#### Invited Talks/Seminars/Lectures
-
-* "Deep Learning for Optimizing Medical Imaging Systems," at the Beckman Graduate Student Seminar, University of Illinois at Urbana-Champaign, October 2019.
-
-
-#### Conference/Symposium Presentations
-
-* "Learning the ideal observer for SKE detection tasks by use of convolutional neural networks," in Medical Imaging 2018: Image Perception, Observer Performance, and Technology Assessment, vol. 10577. International Society for Optics and Photonics, 2018 [Poster presentation]
 
