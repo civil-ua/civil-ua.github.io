@@ -29,7 +29,7 @@ header:
 <div class="row">
 
   <div class="small-6 columns">
-    <img src="/assets/img/SJTU-photo2.jpg">
+    <img src="/assets/img/SJTU-photo3.jpg">
   </div>
     
   <div class="small-6 columns">
