@@ -145,18 +145,18 @@ description="In 2005, Najemnik & Geisler proposed the Bayesian Ideal searcher (I
 
 <h2 data-magellan-destination="CI">Task-Informed Computational Imaging</h2>
 <a name="CI"></a>
-Humans process visual information with varying resolution, known as foveated visual systems, and explore images by orienting through eye movements the high-resolution fovea to points of interest. Visual inspection of medical images is a critical component of diagnostic process and there is a long tradition of studying eye movement strategies deployed by radiologists in visual search. What eye movements optimize decisions in tasks such as target detection and localization?
+Morden medical imaging systems rely on sophisticated image reconstruction and processing algorithms to produce high-quality images. It is important to develop image reconstruction/processing methods that can form clinically-useful images from under-sampled and noisy measurement data. Such methods, for example, can reduce the radiation exposure to the patients in X-ray/nuclear imaging and accelerate data-acquisition in MRI. When under-sampled or noisy data are acquired, the image reconstruction problem becomes ill-posed and it is important to utilize prior knowledge of the sought-after object property to provide regularization. Advanced AI methods have been applied to achieve many successes for establishing generative models and inference models in imaging applications. We endeavor to investigate AI methods to solve ill-posed inverse problems for producing diagnostically accurate high-quality images.
 
 {% include project
-  title="Deep Q-learning for approximating the Bayesian ideal searcher"
+  title="Task-Aware Medical Image Denoising"
 
-  description="Researchers have previously developed a Bayesian ideal searcher (IS) that optimizes search strategies for simple Gaussian noise backgrounds. However, the computation of the IS can be intractable when considering more realistic and complex backgrounds such as medical images. In this study, we investigate the ability of a reinforcement learning method that employs Q-network to approximate the IS. We demonstrate that the search strategy corresponding to the Q-network is consistent with the IS search strategy. The findings show the potential of the reinforcement learning with Q-network approach to estimate optimal eye movement planning with real anatomical backgrounds."
+  description="Medical imaging systems often produce images that are contaminated by noise. Deep neural network (DNN)-based image denoising methods have been proposed for use with medical images, and traditional image quality measures have been employed to evaluate such methods. However, studies showed that denoising networks can result in a loss of task-relevant information in the images. To address this issue, a task-aware denoising autoencoder (DAE) was developed that can effectively extract task-specific information from noisy image data and subsequently form clean images. It was also demonstrated that the encoder of the proposed task-aware DAE can be used as efficient channels for approximating the Hotelling observer (HO). In addition, a foveated channelized HO that models human visual system was employed to assess the denoised images, and the corresponding signal detectability was significantly improved."
 
-  image="/assets/img/research/Qnet.png"
+  image="/assets/img/research/DAE.png"
 
-  citation="Zhou et al. 2022. Proc. SPIE 12035, Medical Imaging."
+  citation="Zhou. 2023. Proc. SPIE 12467, Medical Imaging."
 
-   web="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/0000/A-deep-Q-learning-method-for-optimizing-visual-search-strategies/10.1117/12.2613133.full"
+   web="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12467/1246716/Task-aware-denoising-autoencoders-for-establishing-efficient-channels/10.1117/12.2654465.full"
 
   team="Weimin Zhou"
 %}
