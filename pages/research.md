@@ -12,8 +12,9 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
-    <li data-magellan-arrival="IPOC"><a href="#IGAI">Image Generative AI</a></li>
-    <li data-magellan-arrival="IGAI"><a href="#AIOC">AI-Enabled Observer Computation</a></li>
+    <li data-magellan-arrival="IPOC"><a href="#IGAI">AI for Image Generation</a></li>
+    <li data-magellan-arrival="IGAI"><a href="#AIOC">AI for Observer Computation</a></li>
+    <li data-magellan-arrival="VS"><a href="#AIOC">Visual Search</a></li>
   </ul>
 </div>
 
@@ -24,7 +25,7 @@ The Intelligent Imaging and Computational Vision (IICV) Lab focuses on imaging s
 
 
 
-<h2 data-magellan-destination="IGAI">Image Generative AI</h2>
+<h2 data-magellan-destination="IGAI"> AI for Image Generation</h2>
 <a name="IGAI"></a>
 
 {% include project
@@ -33,19 +34,23 @@ The Intelligent Imaging and Computational Vision (IICV) Lab focuses on imaging s
   description="To objectively assess new medical imaging technologies via computer-simulations, it is important to account for the variability in the ensemble of objects to be imaged. This source of variability can be described by stochastic object models (SOMs). It is generally desirable to establish SOMs from experimental imaging measurements acquired by use of a well-characterized imaging system, but this task has remained challenging. A generative adversarial network (GAN)-based method that employs AmbientGANs with modern progressive or multiresolution training approaches is proposed. The progressive growing of GANs (ProGANs) and style-based GANs (StyGANs) are modified for use in establishing AmbientGANs with high-dimensional medical imaging measurements. The resulting models are referred to as progressive growing AmbientGANs (ProAmGANs) and style-AmbientGANs (StyAmGANs). Both visual examinations and quantitative analyses, including task-specific validations using the Hotelling observer, demonstrated that the proposed AmbientGAN method holds promise to establish realistic SOMs from imaging measurements."
  
 image="/assets/img/research/AmGAN.png"
+
+  citation="Zhou et al. 2022. Journal of Medical Imaging. 9(1):1-22."
   
+  web="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-9/issue-1/015503/Learning-stochastic-object-models-from-medical-imaging-measurements-by-use/10.1117/1.JMI.9.1.015503.full"
+
 
 %}
 
 
 
-<h2 data-magellan-destination="AIOC">AI-Enabled Observer Computation</h2>
+<h2 data-magellan-destination="AIOC">AI for Observer Computation</h2>
 <a name="AIOC"></a>
-
+When optimizing imaging systems for signal detection tasks (e.g., detection of a tumor), it has been advocated to use the performance of the Bayesian Ideal Observer (IO) as a figure-of-merit (FOM). In this way, the imaging system can be optimized in such a way that the amount of task-specific information in the measurement data is maximized. The IO for a binary signal detection task implements a test statistic given by the likelihood ratio and maximizes the area under the receiver operating characteristic (ROC) curve. The IO has also been employed to assess the efficiency of human observers on signal detection tasks. The IO test statistic is generally a non-linear function of the image data and, except in some special cases, cannot be determined analytically. When the IO is intractable, the Hotelling Observer (HO) can be employed to optimize imaging systems for signal detection tasks. However, implementation of the HO is also not without challenges. Specifically, it requires the estimation and inversion of a covariance matrix that can be enormous. 
 {% include project
   title="Supervised Learning for Approximating the Bayesian Ideal Observer and the Hotelling Observer"
 
-  description="When optimizing imaging systems for signal detection tasks (e.g., detection of a tumor), it has been advocated to use the performance of the Bayesian Ideal Observer (IO) as a figure-of-merit (FOM). In this way, the imaging system can be optimized in such a way that the amount of task-specific information in the measurement data is maximized. The IO for a binary signal detection task implements a test statistic given by the likelihood ratio and maximizes the area under the receiver operating characteristic (ROC) curve. The IO has also been employed to assess the efficiency of human observers on signal detection tasks. The IO test statistic is generally a non-linear function of the image data and, except in some special cases, cannot be determined analytically. When the IO is intractable, the Hotelling Observer (HO) can be employed to optimize imaging systems for signal detection tasks. However, implementation of the HO is also not without challenges. Specifically, it requires the estimation and inversion of a covariance matrix that can be enormous. In this work, supervised learning-based methods that employ artificial neural networks for approximating the IO test statistic are explored systematically for binary signal detection tasks in which the observer acts on 2D image data. For the special case of the HO, an alternative supervised learning methodology is proposed that employs single-layer neural networks (SLNNs) for learning the Hotelling template without the need for explicitly estimating and inverting covariance matrices. Moreover, we proposed a supervised learning approach for approximating the IO for joint detection localization tasks that maximizes the area under the localization ROC (LROC) curve."
+  description="In this work, supervised learning-based methods that employ artificial neural networks for approximating the IO test statistic are explored systematically for binary signal detection tasks in which the observer acts on 2D image data. For the special case of the HO, an alternative supervised learning methodology is proposed that employs single-layer neural networks (SLNNs) for learning the Hotelling template without the need for explicitly estimating and inverting covariance matrices. Moreover, we proposed a supervised learning approach for approximating the IO for joint detection localization tasks that maximizes the area under the localization ROC (LROC) curve."
 
   image="/assets/img/research/IO-HO-learning.png"
 
@@ -64,7 +69,7 @@ image="/assets/img/research/AmGAN.png"
 {% include project
   title="Ideal Observer Computation by Use of Markov-Chain Monte Carlo with Generative Adversarial Networks"
 
-  description="The performance of the Bayesian Ideal Observer (IO) sets an upper limit among all observers, numerical or human, and has been advocated for use as a figure-of-merit (FOM) for eval- uating and optimizing medical imaging systems. However, the IO test statistic corresponds to the likelihood ratio that is intractable to compute in the majority of cases. A sampling- based method that employs Markov-chain Monte Carlo (MCMC) techniques was previously proposed to estimate the IO performance. However, current applications of MCMC methods for IO approximation have been limited to a small number of situations where the considered distribution of to-be-imaged objects can be described by a relatively simple stochastic object model (SOM). As such, there remains an important need to extend the domain of applicability of MCMC methods to address a large variety of scenarios where IO-based assessments are needed but the associated SOMs have not been available. In this study, a novel MCMC method that employs a generative adversarial network (GAN)-based SOM, referred to as MCMC-GAN, is described and evaluated. The MCMC-GAN method was quantitatively validated by use of test-cases for which reference solutions were available. The results demonstrate that the MCMC-GAN method can extend the domain of applicability of MCMC methods for conducting IO analyses of medical imaging systems."
+  description=" A sampling-based method that employs Markov-chain Monte Carlo (MCMC) techniques was previously proposed to estimate the IO performance. However, current applications of MCMC methods for IO approximation have been limited to a small number of situations where the considered distribution of to-be-imaged objects can be described by a relatively simple stochastic object model (SOM). As such, there remains an important need to extend the domain of applicability of MCMC methods to address a large variety of scenarios where IO-based assessments are needed but the associated SOMs have not been available. In this study, a novel MCMC method that employs a generative adversarial network (GAN)-based SOM, referred to as MCMC-GAN, is described and evaluated. The MCMC-GAN method was quantitatively validated by use of test-cases for which reference solutions were available. The results demonstrate that the MCMC-GAN method can extend the domain of applicability of MCMC methods for conducting IO analyses of medical imaging systems."
 
   image="/assets/img/research/mcmc_gan.jpg"
 
@@ -77,10 +82,14 @@ image="/assets/img/research/AmGAN.png"
 %}
 
 
+<h2 data-magellan-destination="VS">Visual Search</h2>
+<a name="VS"></a>
+Humans process visual information with varying resolution, known as foveated visual systems, and explore images by orienting through eye movements the high-resolution fovea to points of interest. Visual inspection of medical images is a critical component of diagnostic process and there is a long tradition of studying eye movement strategies deployed by radiologists in visual search. What eye movements optimize decisions in tasks such as target detection and localization?
+
 {% include project
   title="Visual Search"
 
-  description="Humans process visual information with varying resolution, known as foveated visual systems, and explore images by orienting through eye movements the high-resolution fovea to points of interest. Visual inspection of medical images is a critical component of diagnostic process and there is a long tradition of studying eye movement strategies deployed by radiologists in visual search. What eye movements optimize decisions in tasks such as target detection and localization? Researchers have previously developed a Bayesian ideal searcher (IS) that optimizes search strategies for simple Gaussian noise backgrounds. However, the computation of the IS can be intractable when considering more realistic and complex backgrounds such as medical images. To address this limitation, a reinforcement learning method that employs Q-network to approximate the IS for 2D images was developed. Moreover, an image-computable foveated optimal search models that accom- modate inter-saccade response correlations that would arise from influences of external image variability in static 2D images was developed."
+  description=" Researchers have previously developed a Bayesian ideal searcher (IS) that optimizes search strategies for simple Gaussian noise backgrounds. However, the computation of the IS can be intractable when considering more realistic and complex backgrounds such as medical images. To address this limitation, a reinforcement learning method that employs Q-network to approximate the IS for 2D images was developed. Moreover, an image-computable foveated optimal search models that accom- modate inter-saccade response correlations that would arise from influences of external image variability in static 2D images was developed."
 
   image="/assets/img/research/visual_search.jpg"
 
