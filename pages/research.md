@@ -21,7 +21,8 @@ header:
 <a name="Overview"></a>
 
 {% include project
-overview 1
+
+description="overview 1"
 
 
 image="/assets/img/research/research-overview.png"
