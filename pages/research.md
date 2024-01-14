@@ -21,7 +21,7 @@ header:
 <a name="Overview"></a>
 
 
-<img src="{{ "/assets/img/research/research-overview.png" }}">
+<img src="/assets/img/research/research-overview.png">
 
 <h2 data-magellan-destination="IPOC">Image Perception and Observer Computation</h2>
 <a name="IPOC"></a>
