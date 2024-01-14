@@ -19,8 +19,7 @@ header:
 
 <h2 data-magellan-destination="Overview">Overview</h2>
 <a name="Overview"></a>
-
-
+The Intelligent Imaging and Computational Vision (IICV) Lab focuses on imaging science, visual perception, and AI/machine learning. The research goals of IICV are to promote AI-powered imaging science and vision science to improve biomedical image quality and to increase the theoretical and practical understanding of image interpretation of humans and machines. Achieving these goals can lead to reduced diagnostic errors and improved health outcomes. Some questions that we are particularly interested in include: (1) How can deep learning be effectively used for conducting virtual imaging trials that permit the automated simulation and analysis of imaging systems in silico? (2) What eye movements optimize decisions in target detection and localization tasks in medical images? (3) How can image reconstruction/processing algorithms be designed such that the observer performance for task of interest is optimized? To systematically address these questions, our lab utilizes principles of imaging science and vision science and combines a variety of tools, including machine learning, numerical observers, eye tracking, computational modeling, and behavioral psychophysics.
 <img src="/assets/img/research/research-overview.png">
 
 <h2 data-magellan-destination="IPOC">Image Perception and Observer Computation</h2>
