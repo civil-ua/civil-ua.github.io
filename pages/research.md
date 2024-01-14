@@ -23,7 +23,7 @@ header:
 overview
 
 
-
+image="/assets/img/research/research-overview.png"
 
 
 <h2 data-magellan-destination="IPOC">Image Perception and Observer Computation</h2>
