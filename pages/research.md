@@ -15,6 +15,7 @@ header:
     <li data-magellan-arrival="IPOC"><a href="#IGAI">AI for Medical Image Generation</a></li>
     <li data-magellan-arrival="IGAI"><a href="#AIOC">AI for Observer Computation</a></li>
     <li data-magellan-arrival="VS"><a href="#VS">Visual Search</a></li>
+    <li data-magellan-arrival="VS"><a href="#CI">Task-Informed Computation Imaging</a></li>
   </ul>
 </div>
 
@@ -142,6 +143,29 @@ In 2005, Najemnik & Geisler proposed the Bayesian Ideal searcher (IS) that takes
   team="Weimin Zhou"
 
 %}
+
+
+<h2 data-magellan-destination="CI">Task-Informed Computational Imaging</h2>
+<a name="CI"></a>
+Humans process visual information with varying resolution, known as foveated visual systems, and explore images by orienting through eye movements the high-resolution fovea to points of interest. Visual inspection of medical images is a critical component of diagnostic process and there is a long tradition of studying eye movement strategies deployed by radiologists in visual search. What eye movements optimize decisions in tasks such as target detection and localization?
+
+{% include project
+  title="Deep Q-learning for approximating the Bayesian ideal searcher"
+
+  description="Researchers have previously developed a Bayesian ideal searcher (IS) that optimizes search strategies for simple Gaussian noise backgrounds. However, the computation of the IS can be intractable when considering more realistic and complex backgrounds such as medical images. In this study, we investigate the ability of a reinforcement learning method that employs Q-network to approximate the IS. We demonstrate that the search strategy corresponding to the Q-network is consistent with the IS search strategy. The findings show the potential of the reinforcement learning with Q-network approach to estimate optimal eye movement planning with real anatomical backgrounds."
+
+  image="/assets/img/research/Qnet.png"
+
+  citation="Zhou et al. 2022. Proc. SPIE 12035, Medical Imaging."
+
+   web="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/0000/A-deep-Q-learning-method-for-optimizing-visual-search-strategies/10.1117/12.2613133.full"
+
+  team="Weimin Zhou"
+%}
+
+
+
+
 
 
 
