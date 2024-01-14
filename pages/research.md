@@ -117,17 +117,25 @@ Humans process visual information with varying resolution, known as foveated vis
 {% include project
   title="Deep Q-learning for approximating the Bayesian ideal searcher"
 
-  description="Researchers have previously developed a Bayesian ideal searcher (IS) that optimizes search strategies for simple Gaussian noise backgrounds. However, the computation of the IS can be intractable when considering more realistic and complex backgrounds such as medical images. To address this limitation, a reinforcement learning method that employs Q-network to approximate the IS for 2D images was developed. Moreover, an image-computable foveated optimal search models that accom- modate inter-saccade response correlations that would arise from influences of external image variability in static 2D images was developed."
+  description="Researchers have previously developed a Bayesian ideal searcher (IS) that optimizes search strategies for simple Gaussian noise backgrounds. However, the computation of the IS can be intractable when considering more realistic and complex backgrounds such as medical images. In this study, we investigate the ability of a reinforcement learning method that employs Q-network to approximate the IS. We demonstrate that the search strategy corresponding to the Q-network is consistent with the IS search strategy. The findings show the potential of the reinforcement learning with Q-network approach to estimate optimal eye movement planning with real anatomical backgrounds."
 
   image="/assets/img/research/visual_search.jpg"
 
   citation="Zhou et al. 2022. Proc. SPIE 12035, Medical Imaging."
 
-  web="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/0000/A-deep-Q-learning-method-for-optimizing-visual-search-strategies/10.1117/12.2613133.full"
+   web="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/0000/A-deep-Q-learning-method-for-optimizing-visual-search-strategies/10.1117/12.2613133.full"
 
-  citation2="Zhou et al. 2023. Proc. SPIE 12467, Medical Imaging."
+  team="Weimin Zhou"
+%}
 
-  web2="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12467/1246705/Optimal-visual-search-strategy-with-inter-saccade-response-correlations/10.1117/12.2655817.full"
+{% include project
+  title="Optimal visual search strategy with inter-saccade response correlations"
+  
+In 2005, Najemnik & Geisler proposed the Bayesian Ideal searcher (IS) that takes into account the foveated properties of human visual and employs the optimal fixation selection strategy to maximize visual search performance. In addition, they proposed a computationally simpler model, entropy limit minimization (ELM), that approximates the IS searcher. One limitation of these models is that they were developed with the assumption that the visual system’s internal responses across fixations are statistically independent. This assumption will not hold for search tasks such as in 2D medical images for which the external noise and anatomical noise results in correlations in internal responses across saccadic fixations (inter-saccade response correlations). In this work, we present image-computable foveated IS and ELM models that accommodate inter-saccade response correlations. We demonstrate that for static images, the optimal searchers that account for the inter-saccade correlations (i.e., IS-COR and ELM-COR) significantly outperform the traditional methods that ignore such correlations.
+
+  citation="Zhou et al. 2023. Proc. SPIE 12467, Medical Imaging."
+
+  web="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12467/1246705/Optimal-visual-search-strategy-with-inter-saccade-response-correlations/10.1117/12.2655817.full"
 
   team="Weimin Zhou"
 
