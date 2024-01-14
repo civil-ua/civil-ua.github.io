@@ -12,9 +12,9 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
-    <li data-magellan-arrival="IPOC"><a href="#IGAI">AI for Image Generation</a></li>
+    <li data-magellan-arrival="IPOC"><a href="#IGAI">AI for Medical Image Generation</a></li>
     <li data-magellan-arrival="IGAI"><a href="#AIOC">AI for Observer Computation</a></li>
-    <li data-magellan-arrival="VS"><a href="#AIOC">Visual Search</a></li>
+    <li data-magellan-arrival="VS"><a href="#VS">Visual Search</a></li>
   </ul>
 </div>
 
@@ -24,9 +24,9 @@ The Intelligent Imaging and Computational Vision (IICV) Lab focuses on imaging s
 <img src="/assets/img/research/research-overview.png">
 
 
-
 <h2 data-magellan-destination="IGAI"> AI for Image Generation</h2>
 <a name="IGAI"></a>
+Modern medical imaging systems produce images through the imaging chain that consists of complicated hardware and sophisticated computational methods. However, because of the great number of system parameters that can affect image quality, the large variety in objects to be imaged, and ethical limitations, it is often impractical to assess imaging systems via clinical imaging trials. This can hinder the development of emerging imaging technologies. Due to these reasons, there has been growing interest in virtual imaging trials (VITs) that can emulate the clinical imaging process and permit the interpretation and analysis of medical images in silico. Moreover, because it is often expensive to acquire large amount of experimental medical imaging data, generation of realistic "fake" medical images can be useful for a wide range of diagnostic applications. 
 
 {% include project
   title="Advanced-AmbientGAN for establishing stochastic object models"
@@ -39,7 +39,35 @@ image="/assets/img/research/AmGAN.png"
   
   web="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-9/issue-1/015503/Learning-stochastic-object-models-from-medical-imaging-measurements-by-use/10.1117/1.JMI.9.1.015503.full"
 
+team="Weimin Zhou"
 
+%}
+
+{% include project
+  title="Unsupervised Generation of Pseudo Normal PET from MRI with Diffusion Model for Epileptic Focus Localization"
+
+  description="Fluorodeoxyglucose Positron Emission Tomography (FDG PET) has emerged as a crucial tool in identifying the epileptic focus, especially in cases where Magnetic Resonance Imaging (MRI) yields indeterminate results. The efficacy of FDG PET assessments, however, is contingent upon the selection of an appropriate reference control group. Challenges arise when such a group is either unavailable or exhibits demographic disparities. Yaakub et al. have previously introduced a technique utilizing pix2pixGAN for the conversion of MRI images to PET images, employing paired MRI and FDG PET scans from healthy individuals. This method enabled the generation of synthetic normal FDG PET images from patient MRIs, thereby improving the accuracy of lesion detection. Despite its potential, this approach requires an extensive dataset of high-quality, paired MRI and PET images from healthy control subjects. In the current study, we propose an innovative technique that leverages recent developments in diffusion models. This method is capable of performing MRI to PET image translation in an unsupervised manner. Our findings indicate that this novel approach surpasses existing benchmark methods in terms of precision in localizing the epileptic focus."
+ 
+
+  citation="To be appeared in SPIE Medical Imaging 2024."
+  
+  web="https://spie.org/MI24/conferencedetails/clinical-biomedical-imaging?enableBackToBrowse=true#_=_"
+
+team="Wentao Chen, Xichen Xu, Weimin Zhou"
+%}
+
+
+{% include project
+  title="Ambient-Conditional GAN"
+
+  description="In this work, we propose a new cGAN architecture, Ambient-cGAN, for performing medical image-to-image translation tasks by use of noisy measurement data. Moreover, we employ the Pix2Pix in the proposed Ambient-cGAN architecture and the resulting model is referred to as Ambient-Pix2PixGAN. Numerical studies that consider a task of translating MRI to PET images is conducted. Both traditional image quality metrics and task-based image quality metrics are employed to assess the proposed Ambient-cGAN. It is demonstrated that our proposed Ambient-cGAN can be trained on noisy measurement data to produce high-quality translated images. Moreover, we proposed Ambient-CycleGAN for performing unpaired image-to-image translations taks that can be employed to establish realistic and controlable SOMs by integrating computational modeling and imaging measurement data."
+ 
+
+  citation="To be appeared in SPIE Medical Imaging 2024."
+  
+  web="https://spie.org/MI24/conferencedetails/medical-image-perception?enableBackToBrowse=true"
+
+  team="Wentao Chen, Xichen Xu, Weimin Zhou"
 %}
 
 
@@ -87,9 +115,9 @@ When optimizing imaging systems for signal detection tasks (e.g., detection of a
 Humans process visual information with varying resolution, known as foveated visual systems, and explore images by orienting through eye movements the high-resolution fovea to points of interest. Visual inspection of medical images is a critical component of diagnostic process and there is a long tradition of studying eye movement strategies deployed by radiologists in visual search. What eye movements optimize decisions in tasks such as target detection and localization?
 
 {% include project
-  title="Visual Search"
+  title="Deep Q-learning for approximating the Bayesian ideal searcher"
 
-  description=" Researchers have previously developed a Bayesian ideal searcher (IS) that optimizes search strategies for simple Gaussian noise backgrounds. However, the computation of the IS can be intractable when considering more realistic and complex backgrounds such as medical images. To address this limitation, a reinforcement learning method that employs Q-network to approximate the IS for 2D images was developed. Moreover, an image-computable foveated optimal search models that accom- modate inter-saccade response correlations that would arise from influences of external image variability in static 2D images was developed."
+  description="Researchers have previously developed a Bayesian ideal searcher (IS) that optimizes search strategies for simple Gaussian noise backgrounds. However, the computation of the IS can be intractable when considering more realistic and complex backgrounds such as medical images. To address this limitation, a reinforcement learning method that employs Q-network to approximate the IS for 2D images was developed. Moreover, an image-computable foveated optimal search models that accom- modate inter-saccade response correlations that would arise from influences of external image variability in static 2D images was developed."
 
   image="/assets/img/research/visual_search.jpg"
 
