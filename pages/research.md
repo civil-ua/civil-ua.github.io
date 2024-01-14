@@ -114,7 +114,6 @@ When optimizing imaging systems for signal detection tasks (e.g., detection of a
 <h2 data-magellan-destination="VS">Visual Search</h2>
 <a name="VS"></a>
 Humans process visual information with varying resolution, known as foveated visual systems, and explore images by orienting through eye movements the high-resolution fovea to points of interest. Visual inspection of medical images is a critical component of diagnostic process and there is a long tradition of studying eye movement strategies deployed by radiologists in visual search. What eye movements optimize decisions in tasks such as target detection and localization?
-
 {% include project
   title="Deep Q-learning for approximating the Bayesian ideal searcher"
 
@@ -132,7 +131,7 @@ Humans process visual information with varying resolution, known as foveated vis
 {% include project
   title="Optimal visual search strategy with inter-saccade response correlations"
   
-In 2005, Najemnik & Geisler proposed the Bayesian Ideal searcher (IS) that takes into account the foveated properties of human visual and employs the optimal fixation selection strategy to maximize visual search performance. In addition, they proposed a computationally simpler model, entropy limit minimization (ELM), that approximates the IS searcher. One limitation of these models is that they were developed with the assumption that the visual system’s internal responses across fixations are statistically independent. This assumption will not hold for search tasks such as in 2D medical images for which the external noise and anatomical noise results in correlations in internal responses across saccadic fixations (inter-saccade response correlations). In this work, we present image-computable foveated IS and ELM models that accommodate inter-saccade response correlations. We demonstrate that for static images, the optimal searchers that account for the inter-saccade correlations (i.e., IS-COR and ELM-COR) significantly outperform the traditional methods that ignore such correlations.
+description="In 2005, Najemnik & Geisler proposed the Bayesian Ideal searcher (IS) that takes into account the foveated properties of human visual and employs the optimal fixation selection strategy to maximize visual search performance. In addition, they proposed a computationally simpler model, entropy limit minimization (ELM), that approximates the IS searcher. One limitation of these models is that they were developed with the assumption that the visual system’s internal responses across fixations are statistically independent. This assumption will not hold for search tasks such as in 2D medical images for which the external noise and anatomical noise results in correlations in internal responses across saccadic fixations (inter-saccade response correlations). In this work, we present image-computable foveated IS and ELM models that accommodate inter-saccade response correlations. We demonstrate that for static images, the optimal searchers that account for the inter-saccade correlations (i.e., IS-COR and ELM-COR) significantly outperform the traditional methods that ignore such correlations."
 
   image="/assets/img/research/visual_search.jpg"
 
@@ -141,7 +140,6 @@ In 2005, Najemnik & Geisler proposed the Bayesian Ideal searcher (IS) that takes
   web="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12467/1246705/Optimal-visual-search-strategy-with-inter-saccade-response-correlations/10.1117/12.2655817.full"
 
   team="Weimin Zhou"
-
 %}
 
 
