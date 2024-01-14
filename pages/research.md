@@ -12,8 +12,8 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
-    <li data-magellan-arrival="IPOC"><a href="#IPOC">Image Perception and Observer Computation</a></li>
-    <li data-magellan-arrival="IGAI"><a href="#IGAI">Image Generative AI</a></li>
+    <li data-magellan-arrival="IPOC"><a href="#IGAI">Image Generative AI</a></li>
+    <li data-magellan-arrival="IGAI"><a href="#AIOC">AI-Enabled Observer Computation</a></li>
   </ul>
 </div>
 
@@ -22,8 +22,25 @@ header:
 The Intelligent Imaging and Computational Vision (IICV) Lab focuses on imaging science, visual perception, and AI/machine learning. The research goals of the IICV Lab are to promote AI-powered imaging science and vision science to improve biomedical image quality and to increase the theoretical and practical understanding of image interpretation of humans and machines. Achieving these goals can lead to reduced diagnostic errors and improved health outcomes. Some questions that we are particularly interested in include: (1) How can deep learning be effectively used for conducting virtual imaging trials that permit the automated simulation and analysis of imaging systems in silico? (2) What eye movements optimize decisions in target detection and localization tasks in medical images? (3) How can image reconstruction/processing algorithms be designed such that the observer performance for task of interest is optimized? To systematically address these questions, our lab utilizes principles of imaging science and vision science and combines a variety of tools, including machine learning, numerical observers, eye tracking, computational modeling, and behavioral psychophysics.
 <img src="/assets/img/research/research-overview.png">
 
-<h2 data-magellan-destination="IPOC">Image Perception and Observer Computation</h2>
-<a name="IPOC"></a>
+
+
+<h2 data-magellan-destination="IGAI">Image Generative AI</h2>
+<a name="IGAI"></a>
+
+{% include project
+  title="Advanced-AmbientGAN for establishing stochastic object models"
+
+  description="To objectively assess new medical imaging technologies via computer-simulations, it is important to account for the variability in the ensemble of objects to be imaged. This source of variability can be described by stochastic object models (SOMs). It is generally desirable to establish SOMs from experimental imaging measurements acquired by use of a well-characterized imaging system, but this task has remained challenging. A generative adversarial network (GAN)-based method that employs AmbientGANs with modern progressive or multiresolution training approaches is proposed. The progressive growing of GANs (ProGANs) and style-based GANs (StyGANs) are modified for use in establishing AmbientGANs with high-dimensional medical imaging measurements. The resulting models are referred to as progressive growing AmbientGANs (ProAmGANs) and style-AmbientGANs (StyAmGANs). Both visual examinations and quantitative analyses, including task-specific validations using the Hotelling observer, demonstrated that the proposed AmbientGAN method holds promise to establish realistic SOMs from imaging measurements."
+ 
+image="/assets/img/research/AmGAN.png"
+  
+
+%}
+
+
+
+<h2 data-magellan-destination="AIOC">AI-Enabled Observer Computation</h2>
+<a name="AIOC"></a>
 
 {% include project
   title="Supervised Learning for Approximating the Bayesian Ideal Observer and the Hotelling Observer"
@@ -67,11 +84,11 @@ The Intelligent Imaging and Computational Vision (IICV) Lab focuses on imaging s
 
   image="/assets/img/research/visual_search.jpg"
 
-  citation="Proc. SPIE 12035, Medical Imaging 2022."
+  citation="Zhou et al. 2022. Proc. SPIE 12035, Medical Imaging."
 
   web="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/0000/A-deep-Q-learning-method-for-optimizing-visual-search-strategies/10.1117/12.2613133.full"
 
-  citation2="Proc. SPIE 12467, Medical Imaging 2023."
+  citation2="Zhou et al. 2023. Proc. SPIE 12467, Medical Imaging."
 
   web2="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12467/1246705/Optimal-visual-search-strategy-with-inter-saccade-response-correlations/10.1117/12.2655817.full"
 
@@ -80,17 +97,5 @@ The Intelligent Imaging and Computational Vision (IICV) Lab focuses on imaging s
 %}
 
 
-
-<h2 data-magellan-destination="IGAI">Image Generative AI</h2>
-<a name="IGAI"></a>
-
-{% include project
-  title="Advanced-AmbientGAN for establishing stochastic object models"
-
-  description="Extensive."
-
-  
-
-%}
 
 
