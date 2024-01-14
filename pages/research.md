@@ -20,14 +20,8 @@ header:
 <h2 data-magellan-destination="Overview">Overview</h2>
 <a name="Overview"></a>
 
-{% include project
 
-description="overview 1"
-
-
-image="/assets/img/research/research-overview.png"
-
-%}
+<img src="{{ "/assets/img/research/research-overview.png" }}">
 
 <h2 data-magellan-destination="IPOC">Image Perception and Observer Computation</h2>
 <a name="IPOC"></a>
