@@ -72,7 +72,13 @@ body.video cite { color: #fff; }
     background-color: $primary-color;
 }
 #masthead-no-image-header {
-    background-color: $primary-color;
+    // background-color: $primary-color; 
+    margin-top:15px;
+    background-image: url('../img/Header_bg.png');  /* 替换成你的图片路径 */
+    background-size: 100% auto;  /* 保持图片覆盖整个背景 */
+    background-repeat: no-repeat;  /* 禁止图片重复 */
+    background-color: transparent;  /* 设置透明背景颜色，以便背景图片可见 */
+    height: 365px;
 }
 #masthead-with-text {
     text-align: center;
@@ -82,12 +88,9 @@ body.video cite { color: #fff; }
     text-transform: uppercase;
     text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
-#masthead-no-image-header {
-    height: 175px;
-}
-#masthead-no-image-header #logo img {
-    margin-top: 60px;
-}
+// #masthead-no-image-header {
+//     height: auto;
+// }
 
 /* Masthead › small-only
 ------------------------------------------------------------------- */

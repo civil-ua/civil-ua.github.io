@@ -44,7 +44,7 @@ urlimg: 'http://griffithlab.org/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "LogoWhite.png"
+# logo: "LogoWhite.png"
 
 # Gems
 gems:
@@ -162,17 +162,17 @@ defaults:
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          'SJTU-icon.png'
-touch-icon-192x192:                     'SJTU-icon.png'
-apple-touch-icon-180x180-precomposed:   'SJTU-icon.png'
-apple-touch-icon-152x152-precomposed:   'SJTU-icon.png'
-apple-touch-icon-144x144-precomposed:   'SJTU-icon.png'
-apple-touch-icon-120x120-precomposed:   'SJTU-icon.png'
-apple-touch-icon-114x114-precomposed:   'SJTU-icon.png'
-apple-touch-icon-76x76-precomposed:     'SJTU-icon.png'
-apple-touch-icon-72x72-precomposed:     'SJTU-icon.png'
-apple-touch-icon-precomposed:           'SJTU-icon.png'
-msapplication_tileimage:                'SJTU-icon.png'               # Size 144x144
+favicon-32x32:                          'lab_logo_circle.png'
+touch-icon-192x192:                     'lab_logo_circle.png'
+apple-touch-icon-180x180-precomposed:   'lab_logo_circle.png'
+apple-touch-icon-152x152-precomposed:   'lab_logo_circle.png'
+apple-touch-icon-144x144-precomposed:   'lab_logo_circle.png'
+apple-touch-icon-120x120-precomposed:   'lab_logo_circle.png'
+apple-touch-icon-114x114-precomposed:   'lab_logo_circle.png'
+apple-touch-icon-76x76-precomposed:     'lab_logo_circle.png'
+apple-touch-icon-72x72-precomposed:     'lab_logo_circle.png'
+apple-touch-icon-precomposed:           'lab_logo_circle.png'
+msapplication_tileimage:                'lab_logo_circle.png'               # Size 144x144
 msapplication_tilecolor:                '#fabb00'
 
 
