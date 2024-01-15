@@ -49,9 +49,9 @@ header:
 <h2 data-magellan-destination="Students_Interns">Students and Interns</h2>
 <a name="Students_Interns"></a>
 
-{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu（于昭琛）" bio='Zhaochen Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is also a member of the GIFT Future Scholar Program. He is working on the CIViC project with the lab.' image='/assets/img/team/zhaochen_yu.jpg' role='Intern (2023-)' %}
+{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu（于昭琛）" bio='Zhaochen Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is also a member of the GIFT Future Scholar Program.' image='/assets/img/team/zhaochen_yu.jpg' role='Intern (2023-)' %}
 
-{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is working on the CIViC project with the lab.' image='/assets/img/team/runjin_yu.jpg' role='Intern (2023-)' %}
+{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University.' image='/assets/img/team/runjin_yu.jpg' role='Intern (2023-)' %}
 
 
 
@@ -65,7 +65,7 @@ Hanyu Ying (Intern, 2022) Next: Master, University of Southern California
 
 Zeyu Zhang (Intern, 2022) Next: Master, Shanghai Jiao Tong University
 
-Xueru Jiang (Intern, 2022)
+Xueru Jiang (Intern, 2022) B.E., Shanghai Jiao Tong University
 
 
 
