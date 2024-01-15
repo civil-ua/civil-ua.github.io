@@ -162,9 +162,6 @@ img {vertical-align: middle;}
   <img src="/assets/img/research/VS.png" style="width:100%">
     <caption class = "caption" style="width:100%"> Bayesian Ideal Searcher with Inter-Saccade Response Correlations </caption>
 </div>
-.caption {
-    text-align: center;
-}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
