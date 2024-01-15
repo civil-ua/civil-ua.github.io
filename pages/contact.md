@@ -20,7 +20,7 @@ header:
     <div class="small-12 small-centered columns">
     <h5>Weimin Zhou</h5>
     <p>
-      <b>Phone:</b> (+86) 021-5474-1175<br>
+      <b>Phone:</b> (+86) 021-5474-1175 ext. 3222<br>
       <b>Email:</b> <a href="mailto:weimin.zhou@sjtu.edu.cn">weimin.zhou@sjtu.edu.cn</a><br>
       <b>Office:</b> Room 322, Yue-Kong Pao Library's Annex, Minhang Campus<br>
       <b>Address:</b><br>Global Institute of Future Technology,<br>University of Michigan-Shanghai Jiao Tong University Joint Institute,<br>Shanghai Jiao Tong University<br>800 Dongchuan Road<br>Shanghai, China, 200240
@@ -32,9 +32,9 @@ header:
 
 We are hiring highly motivated students to join our group! 
 
-Our group has opening positions for Ph.D. and M.S. in each year. Please send a full CV with a complete list of your publications and projects, as well as, a academic transcript to Prof. Weimin Zhou. You can describe how your research interests match our group instead of simply asking whether there are quotas available.
+Our group generally has opening positions for graduate students in each year. Please send a full CV with a complete list of your publications and projects, as well as, an academic transcript to Prof. Weimin Zhou. It is desirable if you can describe how your research interests match our group.
 
-Undergraduate students can directly send emails to inquire about research intern position. Please send your CV and transcript to Prof. Weimin Zhou. In principle, recommendation letters will only be provided to undergraduate students with 6+ months research experience in our lab to ensure we have something concrete to comment.
+Undergraduate students can directly send emails to inquire about research intern position. Please send your CV and transcript to Prof. Weimin Zhou. In principle, recommendation letters will only be provided to undergraduate students with 6+ months research experience in our lab.
 
 
 ### For Prospective Postdocs
