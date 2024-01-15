@@ -160,7 +160,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="/assets/img/research/VS.png" style="width:100%">
-    <p class = "caption"> Bayesian Ideal Searcher with Inter-Saccade Response Correlations </p>
+    <caption class = "caption"> Bayesian Ideal Searcher with Inter-Saccade Response Correlations </caption>
 </div>
 
 <div class="mySlides fade">
