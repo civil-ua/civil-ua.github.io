@@ -23,7 +23,7 @@ header:
       <b>Phone:</b> (+86) 021-5474-1175 ext. 3222<br>
       <b>Email:</b> <a href="mailto:weimin.zhou@sjtu.edu.cn">weimin.zhou@sjtu.edu.cn</a><br>
       <b>Office:</b> Room 322, Yue-Kong Pao Library's Annex, Minhang Campus<br>
-      <b>Address:</b><br>Global Institute of Future Technology,<br>University of Michigan-Shanghai Jiao Tong University Joint Institute,<br>Shanghai Jiao Tong University<br>800 Dongchuan Road<br>Shanghai, China, 200240
+      <b>Address:</b><br>Global Institute of Future Technology,<br>Shanghai Jiao Tong University<br>800 Dongchuan Road<br>Shanghai, China, 200240
     </p>
     </div>
 </div>
