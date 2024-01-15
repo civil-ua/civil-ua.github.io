@@ -160,19 +160,19 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="/assets/img/research/VS.png" style="width:100%">
-    <p class = "caption"> Tinkercad Link to sailboat model </p>
+    <p class = "caption"> Bayesian Ideal Searcher with Inter-Saccade Response Correlations </p>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
   <img src="/assets/img/research/mcmc_gan.jpg" style="width:100%">
-  <div class="text">MCMC-GAN for Ideal Observer Computation</div>
+  <p class = "caption"> MCMC-GAN for Ideal Observer Computation </p>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
   <img src="/assets/img/research/AmGAN.png" style="width:100%">
-  <div class="text">AmbientGAN for Establishing Stochastic Object Models</div>
+  <p class = "caption"> AmbientGAN for Establishing Stochastic Object Models </p>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
