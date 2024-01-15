@@ -27,12 +27,12 @@ header:
 {% include team_member member_name="Weimin" full_name="Weimin Zhou, Ph.D." bio='Dr. Weimin Zhou is a Tenure-Track Assistant Professor at the Global Institute of Future Technology at Shanghai Jiao Tong University (SJTU). Before joining SJTU in 2022, he was a Postdoctoral Scholar in the Department of Psychological & Brain Sciences at the University of California, Santa Barbara (UCSB). Dr. Zhou received his Ph.D. in Electrical Engineering from Washington University in St. Louis (WashU) in 2020. During his Ph.D., he worked as a Research Assistant in the Department of Biomedical Engineering at WashU and a Visiting Scholar in the Department of Bioengineering at the University of Illinois Urbana-Champaign (UIUC). Dr. Zhou possesses broad expertise in imaging science, computational image formation, visual perception, and machine learning. Dr. Zhou is the recipient of the SPIE Community Champion Award and the SPIE Medical Imaging Cum Laude Award. He also serves as a peer reviewer for a variety of journals and a program committee member for SPIE Medical Imaging. Dr. Zhou has been active in publishing research articles in top-tier journals and conference proceedings, including IEEE Transactions on Medical Imaging, Medical Physics, Journal of Biomedical Optics, Journal of Medical Imaging, and SPIE Medical Imaging.' image="/assets/img/team/weiminzhou.PNG" role="Principal Investigator" %}
 
 
-<h2 data-magellan-destination="Postdoctoral_Researchers">Ph.D. Students</h2>
+<h2 data-magellan-destination="Postdoctoral_Researchers">Doctoral Students</h2>
 <a name="Postdoctoral_Researchers"></a>
 
 {% include team_member member_name="Wentao" full_name="Wentao Chen（陈文涛）" bio='Wentao Chen received the B.E. degree from Beijing University of Posts and Telecommunications in 2023. Currently, he is working toward a Ph.D. degree at University of Michigan-Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University. His research interests include computer vision, medical image analysis and deep learning.' image="/assets/img/team/wentao_chen.jpg" role="Ph.D. Student (2023-)" %}
 
-{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming Ph.D. student at the IICV lab starting from Fall 2024.' image="/assets/img/team/yaozhi_zhang.jpg" role="Ph.D. Student (2024-)" %}
+{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming Ph.D. student at the IICV lab starting from Fall 2024.' image="/assets/img/team/yaozhi_zhang.jpg" role="D.Eng Student (2024-)" %}
 
 
 
