@@ -32,7 +32,7 @@ header:
 
 {% include team_member member_name="Wentao" full_name="Wentao Chen（陈文涛）" bio='Wentao Chen received the B.E. degree from Beijing University of Posts and Telecommunications in 2023. Currently, he is working toward a Ph.D. degree at University of Michigan-Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University. His research interests include computer vision, medical image analysis and deep learning.' image="/assets/img/team/wentao_chen.jpg" role="Ph.D. Student (2023-)" %}
 
-{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming Ph.D. student at the IICV lab starting from Fall 2024.' image="/assets/img/team/yaozhi_zhang.jpg" role="D.Eng Student (2024-)" %}
+{% include team_member member_name="Yaozhi" full_name="Yaozhi Zhang（张耀之）" bio='Yaozhi Zhang is an undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. He is also an incoming D.Eng student at the IICV lab starting from Fall 2024.' image="/assets/img/team/yaozhi_zhang.jpg" role="D.Eng Student (2024-)" %}
 
 
 
