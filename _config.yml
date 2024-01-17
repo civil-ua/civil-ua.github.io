@@ -25,8 +25,7 @@ author: Obi Griffith, Malachi Griffith
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-# url: 'https://iicv-sjtu.github.io'
-url: 'https://sites.gift.sjtu.edu.cn/weimin-zhou/'
+url: 'https://iicv-sjtu.github.io'
 # url: 'https://griffithlab.org'
 #baseurl: '/vicc', this breaks github pages for some reason, investigate, ZL
 
