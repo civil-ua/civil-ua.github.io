@@ -12,10 +12,10 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
-    <li data-magellan-arrival="IPOC"><a href="#IGAI">AI for Medical Image Generation</a></li>
-    <li data-magellan-arrival="IGAI"><a href="#AIOC">AI for Observer Computation</a></li>
+    <li data-magellan-arrival="MIG"><a href="#MIG">AI for Medical Image Generation</a></li>
+    <li data-magellan-arrival="IGAI"><a href="#OC">AI for Observer Computation</a></li>
     <li data-magellan-arrival="VS"><a href="#VS">Visual Search</a></li>
-    <li data-magellan-arrival="VS"><a href="#CI">Task-Informed Computation Imaging</a></li>
+    <li data-magellan-arrival="VS"><a href="#CI">Task-Informed Computational Imaging</a></li>
   </ul>
 </div>
 
@@ -25,8 +25,8 @@ The Intelligent Imaging and Computational Vision (IICV) Lab focuses on imaging s
 <img src="/assets/img/research/research-overview.png">
 
 
-<h2 data-magellan-destination="IGAI"> AI for Image Generation</h2>
-<a name="IGAI"></a>
+<h2 data-magellan-destination="MIG"> AI for Medical Image Generation</h2>
+<a name="MIG"></a>
 Modern medical imaging systems produce images through the imaging chain that consists of complicated hardware and sophisticated computational methods. However, because of the great number of system parameters that can affect image quality, the large variety in objects to be imaged, and ethical limitations, it is often impractical to assess imaging systems via clinical imaging trials. This can hinder the development of emerging imaging technologies. Due to these reasons, there has been growing interest in virtual imaging trials (VITs) that can emulate the clinical imaging process and permit the interpretation and analysis of medical images in silico. Moreover, because it is often expensive to acquire large amount of experimental medical imaging data, generation of realistic "fake" medical images can be useful for a wide range of diagnostic applications. 
 
 {% include project
@@ -73,8 +73,8 @@ team="Wentao Chen, Xichen Xu, Weimin Zhou"
 
 
 
-<h2 data-magellan-destination="AIOC">AI for Observer Computation</h2>
-<a name="AIOC"></a>
+<h2 data-magellan-destination="OC">AI for Observer Computation</h2>
+<a name="OC"></a>
 When optimizing imaging systems for signal detection tasks (e.g., detection of a tumor), it has been advocated to use the performance of the Bayesian Ideal Observer (IO) as a figure-of-merit (FOM). In this way, the imaging system can be optimized in such a way that the amount of task-specific information in the measurement data is maximized. The IO for a binary signal detection task implements a test statistic given by the likelihood ratio and maximizes the area under the receiver operating characteristic (ROC) curve. The IO has also been employed to assess the efficiency of human observers on signal detection tasks. The IO test statistic is generally a non-linear function of the image data and, except in some special cases, cannot be determined analytically. When the IO is intractable, the Hotelling Observer (HO) can be employed to optimize imaging systems for signal detection tasks. However, implementation of the HO is also not without challenges. Specifically, it requires the estimation and inversion of a covariance matrix that can be enormous. 
 {% include project
   title="Supervised Learning for Approximating the Bayesian Ideal Observer and the Hotelling Observer"
