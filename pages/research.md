@@ -13,9 +13,9 @@ header:
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
     <li data-magellan-arrival="MIG"><a href="#MIG">AI for Medical Image Generation</a></li>
-    <li data-magellan-arrival="IGAI"><a href="#OC">AI for Observer Computation</a></li>
+    <li data-magellan-arrival="OC"><a href="#OC">AI for Observer Computation</a></li>
     <li data-magellan-arrival="VS"><a href="#VS">Visual Search</a></li>
-    <li data-magellan-arrival="VS"><a href="#CI">Task-Informed Computational Imaging</a></li>
+    <li data-magellan-arrival="CI"><a href="#CI">Task-Informed Computational Imaging</a></li>
   </ul>
 </div>
 
