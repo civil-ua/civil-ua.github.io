@@ -12,9 +12,9 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Principal_Investigators"><a href="#Principal_Investigator">Principal Investigator</a></li>
-    <li data-magellan-arrival="Postdoctoral_Researchers"><a href="#Doctora_Students">Doctoral Students</a></li>
-    <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Master Students</a></li>
-    <li data-magellan-arrival="Students_Interns"><a href="#Students_Interns">Students and Interns</a></li>
+    <li data-magellan-arrival="Doctoral_Students"><a href="#Doctoral_Students">Doctoral Students</a></li>
+    <li data-magellan-arrival="Master_Students"><a href="#Master_Students">Master Students</a></li>
+    <li data-magellan-arrival="UG_Interns"><a href="#UG_Interns">Undergraduate Interns</a></li>
     <li data-magellan-arrival="Former_Students"><a href="#Former_Students">Former Students</a></li>
 
       
@@ -28,7 +28,7 @@ header:
 
 
 <h2 data-magellan-destination="Doctora_Students">Doctoral Students</h2>
-<a name="Doctora_Students"></a>
+<a name="Doctoral_Students"></a>
 
 {% include team_member member_name="Wentao" full_name="Wentao Chen（陈文涛）" bio='Wentao Chen received the B.E. degree from Beijing University of Posts and Telecommunications in 2023. Currently, he is working toward a Ph.D. degree at University of Michigan-Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University. His research interests include computer vision, medical image analysis and deep learning.' image="/assets/img/team/wentao_chen.jpg" role="Ph.D. Student (2023-)" %}
 
@@ -37,8 +37,8 @@ header:
 
 
 
-<h2 data-magellan-destination="Graduate_Students">Master Students</h2>
-<a name="Graduate_Students"></a>
+<h2 data-magellan-destination="Master_Students">Master Students</h2>
+<a name="Master_Students"></a>
 
 {% include team_member member_name="Kaixin" full_name="Kaixin Shen（沈恺欣）" bio='Kaixin Shen received the B.E. degree from Shanghai Jiao Tong University in 2023. He is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University.' image="/assets/img/team/kaixin_shen.jpg" role="M.E. Student (2023-)" %}
 
@@ -46,8 +46,8 @@ header:
 
 {% include team_member member_name="Xichen" full_name="Xichen Xu（徐希辰）" bio='Xichen Xu received the B.E. degree from South China University of Technology in 2023. He is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University. His research interests include image synthesis, image denoising and deep learning.' image="/assets/img/team/xichen_xu.jpg" role="M.E. Student (2023-)" %}
 
-<h2 data-magellan-destination="Students_Interns">Students and Interns</h2>
-<a name="Students_Interns"></a>
+<h2 data-magellan-destination="UG_Interns">Students and Interns</h2>
+<a name="UG_Interns"></a>
 
 {% include team_member member_name="Zhaochen" full_name="Zhaochen Yu（于昭琛）" bio='Zhaochen Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is also a member of the GIFT Future Scholar Program.' image='/assets/img/team/zhaochen_yu.jpg' role='Intern (2023-)' %}
 
