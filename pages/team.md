@@ -11,7 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
-    <li data-magellan-arrival="Principal_Investigators"><a href="#Principal_Investigator">Principal Investigator</a></li>
+    <li data-magellan-arrival="PI"><a href="#PI">Principal Investigator</a></li>
     <li data-magellan-arrival="Doctoral_Students"><a href="#Doctoral_Students">Doctoral Students</a></li>
     <li data-magellan-arrival="Master_Students"><a href="#Master_Students">Master Students</a></li>
     <li data-magellan-arrival="UG_Interns"><a href="#UG_Interns">Undergraduate Interns</a></li>
@@ -21,8 +21,8 @@ header:
   </ul>
 </div>
 
-<h2 data-magellan-destination="Principal_Investigator">Principal Investigator</h2>
-<a name="Principal_Investigator"></a>
+<h2 data-magellan-destination="PI">Principal Investigator</h2>
+<a name="PI"></a>
 
 {% include team_member member_name="Weimin" full_name="Weimin Zhou, Ph.D. （周维民博士）" bio='Dr. Weimin Zhou is a Tenure-Track Assistant Professor at the Global Institute of Future Technology at Shanghai Jiao Tong University (SJTU). Before joining SJTU in 2022, he was a Postdoctoral Scholar in the Department of Psychological & Brain Sciences at the University of California, Santa Barbara (UCSB). Dr. Zhou received his Ph.D. in Electrical Engineering from Washington University in St. Louis (WashU) in 2020. During his Ph.D., he worked as a Research Assistant in the Department of Biomedical Engineering at WashU and a Visiting Scholar in the Department of Bioengineering at the University of Illinois Urbana-Champaign (UIUC). Dr. Zhou possesses broad expertise in imaging science, computational image formation, visual perception, and machine learning. Dr. Zhou is the recipient of the SPIE Community Champion Award and the SPIE Medical Imaging Cum Laude Award. He also serves as a peer reviewer for a variety of journals and a program committee member for SPIE Medical Imaging. Dr. Zhou has been active in publishing research articles in top-tier journals and conference proceedings, including IEEE Transactions on Medical Imaging, Medical Physics, Journal of Biomedical Optics, Journal of Medical Imaging, and SPIE Medical Imaging.' image="/assets/img/team/weiminzhou.jpg" role="Principal Investigator" %}
 
