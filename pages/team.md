@@ -46,7 +46,7 @@ header:
 
 {% include team_member member_name="Xichen" full_name="Xichen Xu（徐希辰）" bio='Xichen Xu received the B.E. degree from South China University of Technology in 2023. He is currently working toward a M.E. degree at Global Institute of Future Technology, Shanghai Jiao Tong University. His research interests include image synthesis, image denoising and deep learning.' image="/assets/img/team/xichen_xu.jpg" role="M.E. Student (2023-)" %}
 
-<h2 data-magellan-destination="UG_Interns">Students and Interns</h2>
+<h2 data-magellan-destination="UG_Interns">Undergraduate Interns</h2>
 <a name="UG_Interns"></a>
 
 {% include team_member member_name="Zhaochen" full_name="Zhaochen Yu（于昭琛）" bio='Zhaochen Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is also a member of the GIFT Future Scholar Program.' image='/assets/img/team/zhaochen_yu.jpg' role='Intern (2023-)' %}
