@@ -165,7 +165,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-  <img src="/assets/img/research/research-IOHO.jpg" style="width:100%">
+  <img src="/assets/img/research/research-IOHO.png" style="width:100%">
   <p class = "caption">Supervised learning for approximating the Ideal observer and Hotelling observer</p>
 </div>
 
