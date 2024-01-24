@@ -47,7 +47,7 @@ header:
 The Intelligent Imaging & Computational Vision (IICV) Laboratory investigates artificial intelligence and machine learning (AI/ML) for imaging science and vision science. 
 
 Our current projects include:
-1. Deep generative model-produced virtual population for conducting virtual imaging trials.
+1. Deep generative model-based virtual population for conducting in-silico analysis of medical imaging systems and assisting image-based medical decision making.
 2. Machine learning-based numerical observers for calculating task-based measures of image quality.
 3. Visual search and biologically plausible computer vision.
 4. Deep learning for task-driven computational imaging.
@@ -158,21 +158,39 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="/assets/img/research/VS.png" style="width:100%">
-    <caption class = "caption" style="width:100%"> Bayesian Ideal Searcher with Inter-Saccade Response Correlations </caption>
+  <div class="numbertext">1 / 6</div>
+  <img src="/assets/img/research/research-AmGAN.png" style="width:100%">
+    <caption class = "caption" style="width:100%">AmbientGAN for Establishing Stochastic Object Models</caption>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="/assets/img/research/mcmc_gan.jpg" style="width:100%">
-  <p class = "caption"> MCMC-GAN for Ideal Observer Computation </p>
+  <div class="numbertext">2 / 6</div>
+  <img src="/assets/img/research/research-IOHO.jpg" style="width:100%">
+  <p class = "caption">Supervised learning for approximating the Ideal observer and Hotelling observer</p>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="/assets/img/research/AmGAN.png" style="width:100%">
-  <p class = "caption"> AmbientGAN for Establishing Stochastic Object Models </p>
+  <div class="numbertext">3 / 6</div>
+  <img src="/assets/img/research/research-MCMCGAN.png" style="width:100%">
+  <p class = "caption">MCMC-GAN for Ideal Observer Computation </p>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 6</div>
+  <img src="/assets/img/research/research-Qnet.png" style="width:100%">
+  <p class = "caption">Deep Q-learning for obtaining optimal visual search strategy </p>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 6</div>
+  <img src="/assets/img/research/research-IScorr.png" style="width:100%">
+  <p class = "caption">Bayesian Ideal Searcher with Inter-Saccade Response Correlations </p>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 6</div>
+  <img src="/assets/img/research/research-taskDAE.png" style="width:100%">
+  <p class = "caption">Task-informed denoising autuencoder for establishing efficient channels and improving signal detectability </p>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
