@@ -27,11 +27,12 @@ header:
 <a name="2024"></a>
 
 <div class="paper">
-            <div><strong>AmbientCycleGAN for translating simple stochastic object models to realistic stochastic object models</strong><br>
+            <div><strong>AmbientCycleGAN for Establishing Interpretable Stochastic Object Models Based on Mathematical Phantoms and Medical Imaging Measurements
+</strong><br>
                 Xichen Xu, Wentao Chen, Weimin Zhou<br>
                 SPIE Medical Imaging 2024: Image Perception, Observer Performance, and Technology Assessment<br>
-                <a href="">[Paper]</a>
-                <a href="">[BibTex]</a>
+                <a href="https://arxiv.org/pdf/2402.01171.pdf">[Paper]</a>
+                <a href="/assets/bibtex/approximating2023.txt">[BibTex]</a>
                 <br>
           </div>
             <div class="spanner"></div>
@@ -40,11 +41,24 @@ header:
 <p>
 
 <div class="paper">
-            <div><strong>Ambient-cGAN for medical image-to-image translation by use of noisy measurement data</strong><br>
+            <div><strong>Ambient-Pix2PixGAN for Translating Medical Images from Noisy Data</strong><br>
                 Wentao Chen, Xichen Xu, Jie Luo, Weimin Zhou<br>
                 SPIE Medical Imaging 2024: Image Perception, Observer Performance, and Technology Assessment<br>
-                <a href="">[Paper]</a>
-                <a href="">[BibTex]</a>
+                <a href="https://arxiv.org/pdf/2402.01186.pdf">[Paper]</a>
+                <a href="/assets/bibtex/approximating2023.txt">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>        
+
+<p>
+
+<div class="paper">
+            <div><strong>Unsupervised Generation of Pseudo Normal PET from MRI with Diffusion Model for Epileptic Focus Localization</strong><br>
+                Wentao Chen, Jiwei Li, Xichen Xu, Hui Huang, Siyu Yuan, Miao Zhang, Tianming Xu, Jie Luo, Weimin Zhou<br>
+                SPIE Medical Imaging 2024: Clinical and Biomedical Engineering<br>
+                <a href="https://arxiv.org/pdf/2402.01191.pdf">[Paper]</a>
+                <a href="/assets/bibtex/approximating2023.txt">[BibTex]</a>
                 <br>
           </div>
             <div class="spanner"></div>
