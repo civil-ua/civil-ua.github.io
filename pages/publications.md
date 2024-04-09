@@ -11,7 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
-    <li data-magellan-arrival="2023"><a href="#2024">2024</a></li>
+    <li data-magellan-arrival="2024"><a href="#2024">2024</a></li>
     <li data-magellan-arrival="2023"><a href="#2023">2023</a></li>
     <li data-magellan-arrival="2022"><a href="#2022">2022</a></li>
     <li data-magellan-arrival="2021"><a href="#2021">2021</a></li>
@@ -27,11 +27,11 @@ header:
 <a name="2024"></a>
 
 <div class="paper">
-            <div><strong>AmbientCycleGAN for translating simple stochastic object models to realistic stochastic object models</strong><br>
-                Xichen Xu, Wentao Chen, Weimin Zhou<br>
-                SPIE Medical Imaging 2024: Image Perception, Observer Performance, and Technology Assessment<br>
-                <a href="">[Paper]</a>
-                <a href="">[BibTex]</a>
+            <div><strong>AmbientCycleGAN for Establishing Interpretable Stochastic Object Models Based on Mathematical Phantoms and Medical Imaging Measurements</strong><br>
+                Xichen Xu,Wentao Chen.Weimin Zhou<br>
+                SPlE Medical lmaging 2024: lmage Perception, Observer Performance, and Technology Assessment<br>
+                <a href="https://arxiv.org/pdf/2402.01171.pdf">[Paper]</a>
+                <a href="/assets/bibtex/xu2024ambient.txt">[BibTex]</a>
                 <br>
           </div>
             <div class="spanner"></div>
@@ -40,17 +40,32 @@ header:
 <p>
 
 <div class="paper">
-            <div><strong>Ambient-cGAN for medical image-to-image translation by use of noisy measurement data</strong><br>
-                Wentao Chen, Xichen Xu, Jie Luo, Weimin Zhou<br>
-                SPIE Medical Imaging 2024: Image Perception, Observer Performance, and Technology Assessment<br>
-                <a href="">[Paper]</a>
-                <a href="">[BibTex]</a>
+            <div><strong>Ambient-Pix2PixGAN for Translating Medical Images from Noisy Data</strong><br>
+                Wentao Chen,Xichen Xu, Jie Luo, Weimin Zhou<br>
+                SPlE Medical lmaging 2024: lmage Perception, Observer Performance, and Technology Assessment<br>
+                <a href="https://arxiv.org/pdf/2402.01186.pdf">[Paper]</a>
+                <a href="/assets/bibtex/chen2024ambient.txt">[BibTex]</a>
                 <br>
           </div>
             <div class="spanner"></div>
         </div>        
 
 <p>
+
+
+<div class="paper">
+            <div><strong>Unsupervised Generation of Pseudo Normal PET from MRI with Diffusion Model for Epileptic Focus Localization</strong><br>
+                Wentao Chen, Jiwei Li, Xichen Xu, Hui Huang, Siyu Yuan, Miao Zhang, Tianming Xu, Jie Luo, Weimin Zhou<br>
+                SPlE Medical lmaging 2024: Clinical and Biomedical Engineering<br>
+                <a href="https://arxiv.org/pdf/2402.01191.pdf">[Paper]</a>
+                <a href="/assets/bibtex/chen2024unsupervised.txt">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>        
+
+<p>
+
 
 
 <h2 data-magellan-destination="2023">2023</h2>

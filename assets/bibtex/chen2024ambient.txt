@@ -1,0 +1,9 @@
+@inproceedings{chen2024ambient,
+  title={Ambient-Pix2PixGAN for translating medical images from noisy data},
+  author={Chen, Wentao and Xu, Xichen and Luo, Jie and Zhou, Weimin},
+  booktitle={Medical Imaging 2024: Image Perception, Observer Performance, and Technology Assessment},
+  volume={12929},
+  pages={129290H},
+  year={2024},
+  organization={SPIE}
+}

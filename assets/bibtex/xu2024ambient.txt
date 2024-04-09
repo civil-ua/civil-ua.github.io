@@ -1,0 +1,9 @@
+@inproceedings{xu2024ambient,
+  title={AmbientCycleGAN for establishing interpretable stochastic object models based on mathematical phantoms and medical imaging measurements},
+  author={Xu, Xichen and Chen, Wentao and Zhou, Weimin},
+  booktitle={Medical Imaging 2024: Image Perception, Observer Performance, and Technology Assessment},
+  volume={12929},
+  pages={1292913},
+  year={2024},
+  organization={SPIE}
+}

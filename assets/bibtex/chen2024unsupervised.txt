@@ -1,0 +1,9 @@
+@inproceedings{chen2024unsupervised,
+  title={Unsupervised generation of pseudo normal PET from MRI with diffusion model for epileptic focus localization},
+  author={Chen, Wentao and Li, Jiwei and Xu, Xichen and Huang, Hui and Yuan, Siyu and Zhang, Miao and Xu, Tianming and Luo, Jie and Zhou, Weimin},
+  booktitle={Medical Imaging 2024: Clinical and Biomedical Imaging},
+  volume={12930},
+  pages={1293027},
+  year={2024},
+  organization={SPIE}
+}
