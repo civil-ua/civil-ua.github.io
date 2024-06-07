@@ -53,6 +53,8 @@ header:
 
 {% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University.' image='/assets/img/team/runjin_yu.jpg' role='Intern (2023-)' %}
 
+{% include team_member member_name="Yugang" full_name="Yugang Zhang（张煜岗）" bio='Yugang Zhang is an undergraduate student majoring in Health Science and Technology at Shanghai Jiao Tong University. He is also a member of the GIFT Future Scholar Program.' image='/assets/img/team/yugang_zhang.jpg' role='Intern (2024-)' %}
+
 
 
 
