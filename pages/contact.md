@@ -44,7 +44,7 @@ We are hiring highly motivated postdocs to join our group! Please send a full CV
 
 <div class="row">
     <div class="small-12 small-centered columns">
-        <h5>Intelligent Imaging and Computational Vision Laboratory</h5>
+        <h5>Computational Imaging and Visual Intelligence Laboratory (CIVIL)</h5>
         <p>
           <b>Address:</b><br> Room 322, Yue-Kong Pao Library's Annex, Minhang Campus,<br>
           Shanghai Jiao Tong University,<br>
