@@ -44,7 +44,7 @@ header:
 </div> -->
 
 ## Research Overview
-The Intelligent Imaging & Computational Vision (IICV) Laboratory investigates artificial intelligence and machine learning (AI/ML) for imaging science and vision science. 
+The Computational Imaging and Visual Intelligence Laboratory (CIVIL) investigates artificial intelligence and machine learning (AI/ML) for imaging science and vision science. 
 
 Our current projects include:
 1. Deep generative model-based virtual population for conducting in-silico analysis of medical imaging systems and assisting image-based medical decision making.
@@ -52,7 +52,7 @@ Our current projects include:
 3. Visual search and biologically plausible computer vision.
 4. Deep learning for task-driven computational imaging.
 
-Research in the IICV Lab is conducted within the Global Institute of Future Technology (GIFT) at Shanghai Jiao Tong University (SJTU). Students in the IICV Lab come from various institutes including GIFT and UM-SJTU JI. The IICV Lab is directed by Prof. Weimin Zhou.
+Research in the CIVIL Lab is conducted within the Global Institute of Future Technology (GIFT) at Shanghai Jiao Tong University (SJTU). Students in the CIVIL Lab come from various institutes including GIFT and UM-SJTU JI. The CIVIL Lab is directed by Prof. Weimin Zhou.
 <div class="row">
   
 </div>
