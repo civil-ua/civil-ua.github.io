@@ -28,7 +28,7 @@ header:
 
 <div class="paper">
             <div><strong>AmbientCycleGAN for Establishing Interpretable Stochastic Object Models Based on Mathematical Phantoms and Medical Imaging Measurements</strong><br>
-                Xichen Xu,Wentao Chen.Weimin Zhou<br>
+                Xichen Xu, Wentao Chen, Weimin Zhou<br>
                 SPlE Medical lmaging 2024: lmage Perception, Observer Performance, and Technology Assessment<br>
                 <a href="https://arxiv.org/pdf/2402.01171.pdf">[Paper]</a>
                 <a href="/assets/bibtex/xu2024ambient.txt">[BibTex]</a>
