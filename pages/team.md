@@ -49,10 +49,6 @@ header:
 <h2 data-magellan-destination="UG_Interns">Undergraduate Interns</h2>
 <a name="UG_Interns"></a>
 
-{% include team_member member_name="Zhaochen" full_name="Zhaochen Yu（于昭琛）" bio='Zhaochen Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. He is also a member of the GIFT Future Scholar Program.' image='/assets/img/team/zhaochen_yu.jpg' role='Intern (2023-)' %}
-
-{% include team_member member_name="Runjin" full_name="Runjin Yu（于润锦）" bio='Runjin Yu is an undergraduate student majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University.' image='/assets/img/team/runjin_yu.jpg' role='Intern (2023-)' %}
-
 {% include team_member member_name="Yugang" full_name="Yugang Zhang（张煜岗）" bio='Yugang Zhang is an undergraduate student majoring in Health Science and Technology at Shanghai Jiao Tong University. He is also a member of the GIFT Future Scholar Program.' image='/assets/img/team/yugang_zhang.jpg' role='Intern (2024-)' %}
 
 
@@ -69,6 +65,9 @@ Zeyu Zhang (Intern, 2022) Next: Master, Shanghai Jiao Tong University
 
 Xueru Jiang (Intern, 2022) B.E., Shanghai Jiao Tong University
 
+Runjin Yu (Intern, 2023-2024) Next: Master, University of Michigan
+
+Zhaochen Yu (Intern, 2023-2024) Next: Ph.D., Shanghai Jiao Tong University
 
 
 
