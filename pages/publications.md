@@ -122,7 +122,7 @@ header:
 <div class="paper">
             <div><strong>Ideal Observer Computation by Use of Markov-Chain Monte Carlo with Generative Adversarial Networks</strong><br>
                 Weimin Zhou, Umberto Villa, Mark A Anastasio<br>
-                arXiv preprint arXiv:2304.00433<br>
+                IEEE Transactions on Medical Imaging<br>
                 <a href="https://arxiv.org/pdf/2304.00433">[Paper]</a>
                 <a href="/assets/bibtex/ideal2023.txt">[BibTex]</a>
                 <br>
