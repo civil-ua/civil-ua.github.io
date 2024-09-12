@@ -11,6 +11,7 @@ header:
 
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
+    <li data-magellan-arrival="2025"><a href="#2025">2025</a></li>
     <li data-magellan-arrival="2024"><a href="#2024">2024</a></li>
     <li data-magellan-arrival="2023"><a href="#2023">2023</a></li>
     <li data-magellan-arrival="2022"><a href="#2022">2022</a></li>
@@ -21,6 +22,9 @@ header:
     <li data-magellan-arrival="2017"><a href="#2017">2017</a></li>
   </ul>
 </div>
+
+<h2 data-magellan-destination="2025">2025</h2>
+<a name="2025"></a>
 
 
 <h2 data-magellan-destination="2024">2024</h2>
