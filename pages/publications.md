@@ -41,7 +41,7 @@ header:
 
 <div class="paper">
             <div><strong>Ambient-Pix2PixGAN for Translating Medical Images from Noisy Data</strong><br>
-                Wentao Chen,Xichen Xu, Jie Luo, Weimin Zhou<br>
+                Wentao Chen, Xichen Xu, Jie Luo, Weimin Zhou<br>
                 SPlE Medical lmaging 2024: lmage Perception, Observer Performance, and Technology Assessment<br>
                 <a href="https://arxiv.org/pdf/2402.01186.pdf">[Paper]</a>
                 <a href="/assets/bibtex/chen2024ambient.txt">[BibTex]</a>
@@ -73,7 +73,7 @@ header:
 <div class="paper">
             <div><strong>Approximating the Hotelling observer with autoencoder-learned efficient channels for binary signal detection tasks</strong><br>
                 Jason L Granstedt, Weimin Zhou, Mark A Anastasio<br>
-                Journal of Medical Imaging 10 (5), 055501-055501<br>
+                Journal of Medical Imaging<br>
                 <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-5/055501/Approximating-the-Hotelling-observer-with-autoencoder-learned-efficient-channels-for/10.1117/1.JMI.10.5.055501.pdf">[Paper]</a>
                 <!--  -->
                 <a href="/assets/bibtex/approximating2023.txt">[BibTex]</a>
@@ -307,8 +307,9 @@ header:
         </div>
 <p> 
 <div class="paper">
-            <div><strong>Approximating the ideal observer for joint signal detection and localization tasks by use of supervised learning methods</strong><br>W Zhou, H Li, MA Anastasio<br>
-                IEEE transactions on medical imaging<br>
+            <div><strong>Approximating the ideal observer for joint signal detection and localization tasks by use of supervised learning methods</strong><br>
+                Weimin Zhou, Hua Li, Mark A Anastasio<br>
+                IEEE Transactions on Medical Imaging<br>
                 <a href="https://ieeexplore.ieee.org/iel7/42/9273282/09139307.pdf">[Paper]</a>
                 <a href="/assets/bibtex/approximating2020.txt">[BibTex]</a>
                 <br>
@@ -429,7 +430,7 @@ header:
 <div class="paper">
             <div><strong>Comparison of data-acquisition designs for single-shot edge-illumination X-ray phase-contrast tomography</strong><br>
                 Yujia Chen, Weimin Zhou, Charlotte K Hagen, Alessandro Olivo, Mark A Anastasio<br>
-                Optics Express 28 (1), 1-19<br>
+                Optics Express<br>
                 <a href="https://opg.optica.org/viewmedia.cfm?html=true&seq=0&uri=oe-28-1-1">[Paper]</a>
                 <a href="/assets/bibtex/comparison2020.txt">[BibTex]</a>
                 <br>
@@ -443,7 +444,7 @@ header:
 <div class="paper">
             <div><strong>Approximating the ideal observer and hotelling observer for binary signal detection tasks by use of supervised learning methods</strong><br>
                 Weimin Zhou, Hua Li, Mark A Anastasio<br>
-                IEEE transactions on medical imaging<br>
+                IEEE Transactions on Medical Imaging<br>
                 <a href="https://ieeexplore.ieee.org/ielaam/42/8854342/8691467-aam.pdf">[Paper]</a>
                 <a href="/assets/bibtex/approximating2019.txt">[BibTex]</a>
                 <br>
