@@ -47,12 +47,12 @@ team="Weimin Zhou"
 {% include project
   title="Unsupervised Generation of Pseudo Normal PET from MRI with Diffusion Model for Epileptic Focus Localization"
 
-  description="Fluorodeoxyglucose Positron Emission Tomography (FDG PET) has emerged as a crucial tool in identifying the epileptic focus, especially in cases where Magnetic Resonance Imaging (MRI) yields indeterminate results. The efficacy of FDG PET assessments, however, is contingent upon the selection of an appropriate reference control group. Challenges arise when such a group is either unavailable or exhibits demographic disparities. Yaakub et al. have previously introduced a technique utilizing pix2pixGAN for the conversion of MRI images to PET images, employing paired MRI and FDG PET scans from healthy individuals. This method enabled the generation of synthetic normal FDG PET images from patient MRIs, thereby improving the accuracy of lesion detection. Despite its potential, this approach requires an extensive dataset of high-quality, paired MRI and PET images from healthy control subjects. In the current study, we propose an innovative technique that leverages recent developments in diffusion models. This method is capable of performing MRI to PET image translation in an unsupervised manner. Our findings indicate that this novel approach surpasses existing benchmark methods in terms of precision in localizing the epileptic focus."
+  description="Fluorodeoxyglucose Positron Emission Tomography (FDG PET) has emerged as a crucial tool in identifying the epileptic focus, especially in cases where Magnetic Resonance Imaging (MRI) yields indeterminate results. The efficacy of FDG PET assessments, however, is contingent upon the selection of an appropriate reference control group. Challenges arise when such a group is either unavailable or exhibits demographic disparities. Yaakub et al. have previously introduced a technique utilizing Pix2PixGAN for the conversion of MRI images to PET images, employing paired MRI and FDG PET scans from healthy individuals. This method enabled the generation of synthetic normal FDG PET images from patient MRIs, thereby improving the accuracy of lesion detection. Despite its potential, this approach requires an extensive dataset of high-quality, paired MRI and PET images from healthy control subjects. In the current study, we propose an innovative technique that leverages recent developments in diffusion models. This method is capable of performing MRI to PET image translation in an unsupervised manner. Our findings indicate that this novel approach surpasses existing benchmark methods in terms of precision in localizing the epileptic focus."
  
 
-  citation="To be appeared in SPIE Medical Imaging 2024."
+  citation="Chen et al. 2024. Proc. SPIE 12930, Medical Imaging."
   
-  web="https://spie.org/MI24/conferencedetails/clinical-biomedical-imaging?enableBackToBrowse=true#_=_"
+  web="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12930/1293027/Unsupervised-generation-of-pseudo-normal-PET-from-MRI-with-diffusion/10.1117/12.3008266.short#_=_"
 
 team="Wentao Chen, Xichen Xu, Weimin Zhou"
 %}
@@ -64,9 +64,13 @@ team="Wentao Chen, Xichen Xu, Weimin Zhou"
   description="In this work, we propose a new cGAN architecture, Ambient-cGAN, for performing medical image-to-image translation tasks by use of noisy measurement data. Moreover, we employ the Pix2Pix in the proposed Ambient-cGAN architecture and the resulting model is referred to as Ambient-Pix2PixGAN. Numerical studies that consider a task of translating MRI to PET images is conducted. Both traditional image quality metrics and task-based image quality metrics are employed to assess the proposed Ambient-cGAN. It is demonstrated that our proposed Ambient-cGAN can be trained on noisy measurement data to produce high-quality translated images. Moreover, we proposed Ambient-CycleGAN for performing unpaired image-to-image translations taks that can be employed to establish realistic and controlable SOMs by integrating computational modeling and imaging measurement data."
  
 
-  citation="To be appeared in SPIE Medical Imaging 2024."
+  citation="Chen et al. 2024. Proc. SPIE 12929, Medical Imaging."
   
-  web="https://spie.org/MI24/conferencedetails/medical-image-perception?enableBackToBrowse=true"
+  web="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12929/129290H/Ambient-Pix2PixGAN-for-translating-medical-images-from-noisy-data/10.1117/12.3008260.short#_=_"
+  
+  citation2="Xu et al. 2024. Proc. SPIE 12930, Medical Imaging."
+  
+  web2="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12929/1292913/AmbientCycleGAN-for-establishing-interpretable-stochastic-object-models-based-on-mathematical/10.1117/12.3008148.short#_=_"
 
   team="Wentao Chen, Xichen Xu, Weimin Zhou"
 %}
@@ -98,7 +102,7 @@ When optimizing imaging systems for signal detection tasks (e.g., detection of a
 {% include project
   title="Ideal Observer Computation by Use of Markov-Chain Monte Carlo with Generative Adversarial Networks"
 
-  description=" A sampling-based method that employs Markov-chain Monte Carlo (MCMC) techniques was previously proposed to estimate the IO performance. However, current applications of MCMC methods for IO approximation have been limited to a small number of situations where the considered distribution of to-be-imaged objects can be described by a relatively simple stochastic object model (SOM). As such, there remains an important need to extend the domain of applicability of MCMC methods to address a large variety of scenarios where IO-based assessments are needed but the associated SOMs have not been available. In this study, a novel MCMC method that employs a generative adversarial network (GAN)-based SOM, referred to as MCMC-GAN, is described and evaluated. The MCMC-GAN method was quantitatively validated by use of test-cases for which reference solutions were available. The results demonstrate that the MCMC-GAN method can extend the domain of applicability of MCMC methods for conducting IO analyses of medical imaging systems."
+  description="A sampling-based method that employs Markov-chain Monte Carlo (MCMC) techniques was previously proposed to estimate the IO performance. However, current applications of MCMC methods for IO approximation have been limited to a small number of situations where the considered distribution of to-be-imaged objects can be described by a relatively simple stochastic object model (SOM). As such, there remains an important need to extend the domain of applicability of MCMC methods to address a large variety of scenarios where IO-based assessments are needed but the associated SOMs have not been available. In this study, a novel MCMC method that employs a generative adversarial network (GAN)-based SOM, referred to as MCMC-GAN, is described and evaluated. The MCMC-GAN method was quantitatively validated by use of test-cases for which reference solutions were available. The results demonstrate that the MCMC-GAN method can extend the domain of applicability of MCMC methods for conducting IO analyses of medical imaging systems."
 
   image="/assets/img/research/mcmc_gan.jpg"
 
