@@ -26,6 +26,48 @@ header:
 <h2 data-magellan-destination="2025">2025</h2>
 <a name="2025"></a>
 
+<div class="paper">
+            <div><strong>Ambient Denoising Diffusion Generative Adversarial Networks for Establishing Stochastic Object Models from Noisy Image Data</strong><br>
+                Xichen Xu, Wentao Chen, Weimin Zhou<br>
+                SPlE Medical lmaging 2025: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>        
+
+<p>
+
+
+
+<div class="paper">
+            <div><strong>Task-based regularization in penalized least-squares for binary signal detection tasks in medical image denoising</strong><br>
+                Wentao Chen, Weimin Zhou<br>
+                SPlE Medical lmaging 2025: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>        
+
+<p>
+
+
+<div class="paper">
+            <div><strong>Using gradient of Lagrangian function to compute efficient channels for the ideal observer</strong><br>
+                Weimin Zhou<br>
+                SPlE Medical lmaging 2025: Image Perception, Observer Performance, and Technology Assessment<br>
+                <a href="">[Paper]</a>
+                <a href="">[BibTex]</a>
+                <br>
+          </div>
+            <div class="spanner"></div>
+        </div>        
+
+<p>
+
 
 <h2 data-magellan-destination="2024">2024</h2>
 <a name="2024"></a>
@@ -33,7 +75,7 @@ header:
 <div class="paper">
             <div><strong>AmbientCycleGAN for Establishing Interpretable Stochastic Object Models Based on Mathematical Phantoms and Medical Imaging Measurements</strong><br>
                 Xichen Xu, Wentao Chen, Weimin Zhou<br>
-                SPlE Medical lmaging 2024: lmage Perception, Observer Performance, and Technology Assessment<br>
+                SPlE Medical lmaging 2024: Image Perception, Observer Performance, and Technology Assessment<br>
                 <a href="https://arxiv.org/pdf/2402.01171.pdf">[Paper]</a>
                 <a href="/assets/bibtex/xu2024ambient.txt">[BibTex]</a>
                 <br>
@@ -46,7 +88,7 @@ header:
 <div class="paper">
             <div><strong>Ambient-Pix2PixGAN for Translating Medical Images from Noisy Data</strong><br>
                 Wentao Chen, Xichen Xu, Jie Luo, Weimin Zhou<br>
-                SPlE Medical lmaging 2024: lmage Perception, Observer Performance, and Technology Assessment<br>
+                SPlE Medical lmaging 2024: Image Perception, Observer Performance, and Technology Assessment<br>
                 <a href="https://arxiv.org/pdf/2402.01186.pdf">[Paper]</a>
                 <a href="/assets/bibtex/chen2024ambient.txt">[BibTex]</a>
                 <br>
